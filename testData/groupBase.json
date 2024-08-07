@@ -1,0 +1,143 @@
+{
+  "bases": [
+
+    {
+        "base_name": "development",
+        "Author": "",
+        "Lifespan in months": 1,
+        "Abbreviation": "",
+        "color": "342, 80%, 40%",
+        "rank": 3,
+        "question_file_name": "questions_to_upload.docx",
+        "domains": [
+          "python"
+        ],
+        "tunings": {
+          "Questions_must_have_a_level": true,
+          "Questions_must_have_an_explanation": true,
+          "Questions_must_have_a_rule": true,
+          "Base_uses_Question_sequences": true,
+          "Use_formatted_text": true,
+          "Base_uses_explicit_scores": true,
+          "Base_uses_explicit_timing": true
+        },
+
+       "questionnaire_name": "track",
+       "level": 5,
+       "questions": 15,
+       "raank": 2,
+       "mark": 30,
+       "Player_first_page": "first message while playing",
+       "Player_message": "message for players",
+       "public": {
+         "link_text": "public_test",
+         "title": "public_test",
+         "description": "You can play the test",
+         "image": ""
+      },
+        "module_abbreviation" : "new",
+        "module_name": "Python",
+        "module_rank": 1,
+        "module_tag": "hello",
+
+        "item": 1,
+        "type": "questionnaire",
+        "name": "track"
+
+    },
+
+    {
+        "base_name": "testing",
+        "Author": "",
+        "Lifespan in months": 1,
+        "Abbreviation": "",
+        "color": "342, 80%, 40%",
+        "rank": 1,
+        "question_file_name": "questions_to_upload.docx",
+        "domains": [
+          "python"
+        ],
+        "tunings": {
+          "Questions_must_have_a_level": true,
+          "Questions_must_have_an_explanation": true,
+          "Questions_must_have_a_rule": true,
+          "Base_uses_Question_sequences": true,
+          "Use_formatted_text": true,
+          "Base_uses_explicit_scores": true,
+          "Base_uses_explicit_timing": true
+        },
+
+      "questionnaire_name": "mask",
+      "level": 5,
+      "questions": 15,
+      "raank": 1,
+      "Player_first_page": "first message while playing",
+      "Player_message": "message for players",
+      "mark": 30,
+      "public": {
+        "link_text": "public_test",
+        "title": "public_test",
+        "description": "You can play the test",
+        "image": ""
+        },
+        "module_abbreviation" : "old",
+        "module_name": "first_module",
+        "module_rank" : 10,
+        "module_tag" : "hai",
+        "item": 1,
+        "type": "questionnaire",
+        "name": "mask"
+
+       },
+
+    {
+      "base_name": "devops",
+      "Author": "",
+      "Lifespan in months": 1,
+      "Abbreviation": "",
+      "color": "342, 80%, 40%",
+      "rank": 2,
+      "question_file_name": "questions_to_upload.docx",
+      "domains": [
+        "python",
+        "java",
+        "php",
+        "ruby"
+      ],
+      "tunings": {
+        "Questions_must_have_a_level": true,
+        "Questions_must_have_an_explanation": true,
+        "Questions_must_have_a_rule": true,
+        "Base_uses_Question_sequences": true,
+        "Use_formatted_text": true,
+        "Base_uses_explicit_scores": true,
+        "Base_uses_explicit_timing": true
+      },
+
+        "questionnaire_name": "js",
+        "level": 5,
+        "questions": 15,
+        "raank": 3,
+        "Player_first_page": "first message while playing",
+        "Player_message": "message for players",
+        "mark": 30,
+        "public": {
+          "link_text": "public_test",
+          "title": "public_test",
+          "description": "You can play the test",
+          "image": ""
+        },
+       "module_abbreviation" : "set",
+       "module_name": "second_module",
+        "module_rank" : 5,
+        "module_tag": "good",
+
+        "item": 1,
+        "type": "questionnaire",
+        "name": "js"
+
+      }
+
+
+  ]
+}

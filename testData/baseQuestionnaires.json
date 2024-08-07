@@ -1,0 +1,311 @@
+{
+    "bases": {
+      "base_0": {
+        "base_name": "jaff",
+        "Author": "",
+        "Lifespan in months": 1,
+        "Abbreviation": "",
+        "color": "342, 80%, 40%",
+        "rank": 10,
+        "question_file_name": "import_bulk_questions.docx",
+        "import": [
+          "import_100_questions.docx",
+          "import_200_questions.docx",
+          "import_300_questions.docx",
+          "import_400_questions.docx",
+          "import_bulk2_question2.docx"
+        ],
+        "import_2000_questions": "import_2000_questions.docx",
+        "tunings  ": {
+          "Questions_must_have_a_level": true,
+          "Questions_must_have_an_explanation": true,
+          "Questions_must_have_a_rule": true,
+          "Base_uses_Question_sequences": true,
+          "Use_formatted_text": true,
+          "Base_uses_explicit_scores": true,
+          "Base_uses_explicit_timing": true
+        }
+      },
+      "base_1": {
+        "base_name": "development",
+        "Author": "",
+        "Lifespan in months": 1,
+        "Abbreviation": "",
+        "color": "342, 80%, 40%",
+        "rank": 2,
+        "question_file_name": "questions_to_upload.docx",
+        "domains": [
+          "python"
+        ],
+        "multipledomain": [
+          "python",
+          "java",
+          "ruby"
+        ],
+        "tunings": {
+          "Questions_must_have_a_level": true,
+          "Questions_must_have_an_explanation": true,
+          "Questions_must_have_a_rule": true,
+          "Base_uses_Question_sequences": true,
+          "Use_formatted_text": true,
+          "Base_uses_explicit_scores": true,
+          "Base_uses_explicit_timing": true
+        }
+      },
+      "base_2": {
+        "base_name": "testing",
+        "Author": "",
+        "Lifespan in months": 1,
+        "Abbreviation": "",
+        "color": "342, 80%, 40%",
+        "rank": 1,
+        "question_file_name": "questions_to_upload.docx",
+        "domains": [
+          "python"
+        ],
+        "multipledomain": [
+          "python",
+          "java",
+          "ruby"
+        ],
+        "tunings": {
+          "Questions_must_have_a_level": true,
+          "Questions_must_have_an_explanation": true,
+          "Questions_must_have_a_rule": true,
+          "Base_uses_Question_sequences": true,
+          "Use_formatted_text": true,
+          "Base_uses_explicit_scores": true,
+          "Base_uses_explicit_timing": true
+        }
+      },
+      "base_3": {
+        "base_name": "developments",
+        "Author": "",
+        "Lifespan in months": 1,
+        "Abbreviation": "",
+        "color": "342, 80%, 40%",
+        "rank": 3,
+        "question_file_name": "questions_to_upload.docx",
+        "domains": [
+          "python"
+        ],
+        "tunings": {
+          "Questions_must_have_a_level": true,
+          "Questions_must_have_an_explanation": true,
+          "Questions_must_have_a_rule": true,
+          "Base_uses_Question_sequences": true,
+          "Use_formatted_text": true,
+          "Base_uses_explicit_scores": true,
+          "Base_uses_explicit_timing": true
+        }
+      }
+    },
+    "questionnaires": {
+      "questionnaire_1": {
+        "questionnaire_name": "task",
+        "level": "5",
+        "questions": "3",
+        "mark": "30",
+        "usage": "free",
+        "Player_first_page": "first message while playing",
+        "Player_message": "message for players",
+        "renewal": "2",
+        "public": {
+          "link_text": "public_test",
+          "title": "public_test",
+          "description": "You can play the test",
+          "image": ""
+        }
+      },
+      "questionnaire_with_correction": {
+        "questionnaire_name": "Correction_questionnaire",
+        "level": "5",
+        "questions": "3",
+        "mark": "30",
+        "Player_first_page": "first message while playing",
+        "Player_message": "message for players",
+        "public": {
+          "link_text": "public_test",
+          "title": "public_test",
+          "description": "You can play the test",
+          "image": ""
+        }
+      },
+      "questionnaire_2": {
+        "questionnaire_name": "Test",
+        "level": "5",
+        "questions": "3",
+        "Player_first_page": "first message while playing",
+        "Player_message": "message for players",
+        "mark": "30",
+        "public": {
+          "link_text": "public_test",
+          "title": "public_test",
+          "description": "You can play the test",
+          "image": ""
+        }
+      },
+      "two_questionnaire":
+      [
+        {
+          "questionnaire_name": "first_questionnaires",
+          "level": 5,
+          "questions": 3,
+          "mark": 30,
+          "Player_first_page": "first message while playing",
+          "Player_message": "message for players",
+          "public":
+          {
+            "link_text": "public_test",
+            "title": "public_test",
+            "description": "You can play the test",
+            "image": ""
+          }
+        },
+        {
+          "questionnaire_name": "second_questionnaires",
+          "level": 5,
+          "questions": 3,
+          "mark": 30,
+          "Player_first_page": "first message while playing",
+          "Player_message": "message for players",
+          "public":
+          {
+            "link_text": "public_test",
+            "title": "public_test",
+            "description": "You can play the test",
+            "image": ""
+          }
+        }
+      ],
+      "three_questionnaire":
+      [
+        {
+          "questionnaire_name": "questionnaire01",
+          "level": 5,
+          "questions": 3,
+          "mark": 50,
+          "Player_first_page": "first message while playing",
+          "Player_message": "message for players"
+        },
+        {
+          "questionnaire_name": "questionnaire02",
+          "level": 5,
+          "questions": 3,
+          "mark": 50,
+          "Player_first_page": "first message while playing",
+          "Player_message": "message for players"
+        },
+        {
+          "questionnaire_name": "questionnaire03",
+          "level": 5,
+          "questions": 3,
+          "mark": 50,
+          "Player_first_page": "first message while playing",
+          "Player_message": "message for players"
+        }
+      ],
+      "training_questionnaire_1": [
+        {
+          "usage": "evaluation",
+          "questionnaire_name": "first_questionnaire"
+        },
+        {
+          "usage": "free",
+          "questionnaire_name": "second_questionnaire"
+        }
+      ],
+      "training_questionnaire_2": [
+        {
+          "usage": "free",
+          "questionnaire_name": "second_questionnaire"
+        }
+      ]
+    },
+    "training": {
+      "training_1": {
+        "training_name": "first_training",
+        "location": "Madurai",
+        "questionnaires": "training_questionnaire_1",
+        "medias": "training_media1"
+      },
+      "training_2": {
+        "training_name": "edit_training",
+        "location": "Chennai",
+        "questionnaires": "training_questionnaire_1",
+        "medias": "training_media1"
+      },
+      "duplicate_training": {
+        "training_name": "first_training",
+        "location": "Madurai"
+      }
+    },
+    "cycle": {
+      "cycle_1": {
+        "cycle_name": "first_cyc",
+        "description": "A mid-term evaluation is formative in nature and typically used to assess achievements half-way through the project or programme and to derive lessons for implementation. A final evaluation is performed shortly before the end of a project (or of a project's phase) to ensure evaluation capacity.",
+        "cycle_step": [
+          {
+            "type": "questionnaire",
+            "questionnaire_name": "task"
+          }
+        ]
+      },
+      "cycle_2": {
+        "cycle_name": "second_cycle",
+        "description": "This is the second cycle of the description",
+         "cycle_step": [
+          {
+            "type": "questionnaire",
+            "questionnaire_name": "first_questionnaires"
+          },
+          {
+            "type": "form",
+            "form_name": "first_form"
+          }
+        ]
+      },
+      "edit_cycle": {
+        "cycle_name": "edited cycle name",
+        "description": "this is the description of the edited cycle",
+        "cycle_step": [
+          {
+            "type": "questionnaire",
+            "questionnaire_name": "second_questionnaires"
+          },
+          {
+            "type": "form",
+            "form_name": "text and para"
+          }
+        ]
+      }
+    },
+    "message":
+    {
+      "messages_1":{
+        "message": "if global_score >= 60 or domain_score_python >= 40 then message(\"Congratulations [first_name] [last_name]!\")\nif domain_score_python == 0 or domain_score_python >= 80 then message(\"Experts\")\nif global_score >= 40 then message(\"Thanks for using this message\")\n",
+        "module_message": "if global_score >= 60 or domain_score_python >= 40 then message(\"Congratulations [first_name] [last_name]!\")",
+        "message_verification": "Congratulations",
+        "validation": "global_score = 75\ndomain_score_python = 30\nglobal_score  = 50",
+        "check_code_for_module": "global_score >= 60",
+        "action": "if domain_score_python == 100 then questionnaire(\"Task replaceme\")",
+        "actions": "if global_score >= 50 then in_group(\"Python replaceme\")",
+        "capacity_action": "if global_score == 100 then capacity(\"14\", 100)",
+        "check_code": "global_score = 100",
+        "validation_group": "global_score = 75\ndomain_score_python = 100",
+        "validation_group1": "global_score = 75\ndomain_score_python = 100",
+        "add_action":"if global_score >= 50 then in_group(\"Task replaceme\")",
+        "remove_action": "if global_score >= 50 then out_group(\"Python replaceme\")",
+        "action_for_questionnaire": "if global_score == 100 then questionnaire(\"second_questionnaires replaceme\")\n",
+        "action_for_module": "if global_score == 100 then module(\"no_consequenece_module replaceme\")\n",
+        "action_for_in_group": "if global_score == 100 then in_group(\"Java replaceme\")\n",
+        "action_for_out_group": "if global_score == 100 then out_group(\"Python replaceme\")\n",
+        "action_for_capacity": "if global_score == 100 then capacity(\"14\", 100)\n",
+        "action_for_admin_mail": "if global_score == 100 then email(\"administrator\", \"admin_subject\", \"message\")\n",
+        "action_for_user_mail": "if global_score == 100 then email(\"user\", \"user_subject\", \"message\")\n",
+        "action_for_manager_mail": "if global_score == 100 then email(\"manager\", \"manager_subject\", \"message\")\n",
+        "action_for_contact_mail": "if global_score == 100 then email(\"email_contact\", \"email_contact_subject\", \"message\")\n"
+      
+    }
+    }
+  }

@@ -1,0 +1,1370 @@
+{
+  "single_type": [
+    {
+      "item": 1,
+      "title": "JDK",
+      "type": "single",
+      "question_syntax": "",
+      "question_text": "mcq-What is JDK",
+      "edit_title": "Java development kit",
+      "edit_type": "multi",
+      "edit_question": "JDK means?",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+      "answers": [
+        {
+          "correct": true,
+          "answer_text": "Java development kit"
+        },
+        {
+          "correct": false,
+          "answer_text": "Java developer kit"
+        },
+        {
+          "correct": false,
+          "answer_text": "Java detach kit"
+        }
+      ],
+      "edit_answers": [
+        {
+          "correct": true,
+          "answer_text": "Kit of Java development"
+        },
+        {
+          "correct": false,
+          "answer_text": "Kit of Java developer"
+        },
+        {
+          "correct": false,
+          "answer_text": "Kit of Java detach"
+        }
+      ],
+      "edit_rank": [
+        {
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "item": 2,
+      "title": "environment",
+      "type": "single",
+      "question_syntax": "",
+      "question_text": "mcq-software development environment used for developing Java applications and applets",
+      "edit_title": "environment",
+      "edit_type": "match_items",
+      "edit_question": "software development environment used for developing Java applications and applets",
+      "rule": "Rule rule",
+      "explanation": "Explanation ex",
+      "answers": [
+        {                                                                                                                                                                      
+          "correct": true,
+          "answer_text": "Java development kit"
+        },
+        {
+          "correct": false,
+          "answer_text": "Java developer kit"
+        },
+        {
+          "correct": false,
+          "answer_text": "Java detach kit"
+        }
+      ],
+      "edit_answers": [
+        {
+          "case": "JDK",
+          "match_text": "Java development kit"
+        },
+        {
+          "case": "JRE",
+          "match_text": "Java Runtime Environment"
+        }
+      ]
+    },
+    {
+      "item": 3,
+      "title": "Platform",
+      "type": "single",
+      "question_syntax": "",
+      "edit_title": "Java_platform",
+      "edit_type": "true_or_false",
+      "edit_question": "mcq-The one which is an implementation of Java Platform is JDK",
+      "question_text": "mcq-The one which is an implementation of Java Platform",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+      "answers": [
+        {
+          "correct": true,
+          "answer_text": "Java development kit"
+        },
+        {
+          "correct": false,
+          "answer_text": "Java developer kit"
+        },
+        {
+          "correct": false,
+          "answer_text": "Java detach kit"
+        }
+      ],
+      "edit_answers": [
+        {
+          "correct": true,
+          "answer_text": "True"
+        },
+        {
+          "correct": false,
+          "answer_text": "False"
+        }
+      ]
+    }
+  ],
+  "enter_types": [
+    {
+      "item": 3,
+      "title": "Platform",
+      "type": "entered_answer",
+      "question_text": "text-The one which is an implementation of Java Platform",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+      "answers": "Java development kit"
+    },
+    {
+      "item": 6,
+      "title": "environment",
+      "type": "fill",
+      "question_text": "fill-software development environment used for developing Java applications and applets is ____",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+      "answers": [
+        {
+          "answer_text": "Java development kit"
+        }
+      ]
+    }
+  ],
+  "basic_types": [
+    {
+      "item": 0,
+      "title": "Platform",
+      "type": "single",
+      "question_syntax": "",
+      "question_text": "mcq-The one which is an implementation of Java Platform",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+      "answers": [
+        {
+          "correct": true,
+          "answer_text": "Java development kit"
+        },
+        {
+          "correct": false,
+          "answer_text": "Java developer kit"
+        },
+        {
+          "correct": false,
+          "answer_text": "Java detach kit"
+        }
+      ]
+    },
+    {
+      "item": 1,
+      "title": "JDK",
+      "type": "multi",
+      "question_syntax": "",
+      "question_text": "mchk-What is JDKs",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+      "answers": [
+        {
+           "correct": false,
+          "answer_text": "Java developer kit"
+        },
+        {
+          "correct": true,
+          "answer_text": "Java development kit"
+        },
+        {
+          "correct": true,
+          "answer_text": "JDK"
+        }
+      ]
+    },
+    {
+      "item": 2,
+      "title": "environment",
+      "type": "true_or_false",
+      "question_syntax": "",
+      "question_text": "bool-software development environment used for developing Java applications and applets",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+      "answers": [
+        {
+          "correct": true,
+          "answer_text": "True"
+        },
+        {
+          "correct": false,
+          "answer_text": "False"
+        }
+      ]
+    },
+    {
+      "item": 3,
+      "title": "environment",
+      "type": "match_items",
+      "question_syntax": "",
+      "question_text": "match-software development environment used for developing Java applications and applets",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+      "answers": [
+        {
+          "case": "JDK",
+          "match_text": "Java development kit"
+        },
+        {
+          "case": "JRE",
+          "match_text": "Java Runtime Environment"
+        }
+      ]
+    },
+    {
+      "item": 4,
+      "title": "Platform",
+      "type": "sort_list",
+      "question_syntax": "",
+      "question_text": "sort-The implementation of Java Platform",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+      "answers": [
+        {
+          "answer_text": "Java"
+        },
+        {
+          "answer_text": "development"
+        },
+        {
+          "answer_text": "kit"
+        }
+      ]
+    },
+    {
+      "item": 5,
+      "title": "Platform",
+      "type": "sort_list",
+      "question_syntax": "",
+      "question_text": "sort-The one which is an implementation of Java Platform",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+      "answers": [
+        {
+          "correct": true,
+          "answer_text": "Java development kit"
+        },
+        {
+          "correct": false,
+          "answer_text": "Java developer kit"
+        },
+        {
+          "correct": false,
+          "answer_text": "Java detach kit"
+        }
+      ]
+    }
+  ],
+  "all_type": [
+    {
+      "item": 0,
+      "title": "single",
+      "type": "single",
+      "question_text": "mcq-The one which is an implementation of Java Platform",
+      "question_syntax": "",
+      "edit_title": "multiple question",
+      "edit_type": "multi",
+      "edit_question_text": "mcq-JDK means?",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+      "answers": [
+        {
+          "correct": true,
+          "answer_text": "Java development kit"
+        },
+        {
+          "correct": false,
+          "answer_text": "Java developer kit"
+        },
+        {
+          "correct": false,
+          "answer_text": "Java detach kit"
+        }
+      ],
+      "edit_answers": [
+        {
+          "correct": true,
+          "answer_text": "Java development kit"
+        },
+        {
+          "correct": true,
+          "answer_text": "Java developer kit"
+        },
+        {
+          "correct": false,
+          "answer_text": "Java detach kit"
+        }
+      ]
+    },
+    {
+      "item": 1,
+      "title": "multiple",
+      "type": "multi",
+      "question_text": "mchk-What is JDK",
+      "question_syntax": "",
+      "edit_title": "single question",
+      "edit_type": "single",
+      "edit_question_text": "mchk-JDK means?",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+      "answers": [
+        {
+          "correct": true,
+          "answer_text": "Java development kit"
+        },
+        {
+          "correct": true,
+          "answer_text": "Java developer kit"
+        },
+        {
+          "correct": false,
+          "answer_text": "Java detach kit"
+        }
+      ],
+      "edit_answers": [
+        {
+          "correct": true,
+          "answer_text": "Java development kit"
+        },
+        {
+          "correct": false,
+          "answer_text": "Java developer kit"
+        },
+        {
+          "correct": false,
+          "answer_text": "Java detach kit"
+        }
+      ]
+    },
+    {
+      "item": 2,
+      "title": "boolean",
+      "type": "true_or_false",
+      "question_text": "bool-software development environment used for developing Java applications and applets",
+      "question_syntax": "",
+      "edit_title": "match question",
+      "edit_type": "match_items",
+      "edit_question_text": "bool-match the following",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+      "answers": [
+        {
+          "correct": true,
+          "answer_text": "True"
+        },
+        {
+          "correct": false,
+          "answer_text": "False"
+        }
+      ],
+      "edit_answers": [
+        {
+          "case": "JDK",
+          "match_text": "Java development kit"
+        },
+        {
+          "case": "JRE",
+          "match_text": "Java Runtime Environment"
+        }
+      ]
+    },
+    {
+      "item": 3,
+      "title": "match",
+      "type": "match_items",
+      "question_text": "match-match the following",
+      "question_syntax": "",
+      "edit_title": "boolean question",
+      "edit_type": "true_or_false",
+      "edit_question_text": "match-software development environment used for developing Java applications and applets",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+      "answers": [
+        {
+          "case": "JDK",
+          "match_text": "Java development kit"
+        },
+        {
+          "case": "JRE",
+          "match_text": "Java Runtime Environment"
+        }
+      ],
+      "edit_answers": [
+        {
+          "correct": true,
+          "answer_text": "True"
+        },
+        {
+          "correct": false,
+          "answer_text": "False"
+        }
+      ]
+    },
+    {
+      "item": 4,
+      "title": "sort",
+      "type": "sort_list",
+      "question_text": "sort-The implementation of Java Platform",
+      "question_syntax": "",
+      "edit_title": "fill question",
+      "edit_type": "fill",
+      "edit_question_text": "sort-software development environment used for developing Java applications and applets is ____",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+      "answers": [
+        {
+          "answer_text": "Java"
+        },
+        {
+          "answer_text": "development"
+        },
+        {
+          "answer_text": "kit"
+        }
+      ],
+      "edit_answers": [
+        {
+          "answer_text": "Java development kit, jdk, java",
+          "correct": true,
+          "answer": "Java development kit",
+          "score": 10
+        }
+      ]
+    },
+    {
+      "item": 5,
+      "title": "fill",
+      "type": "fill",
+      "edit_type": "sort_list",
+      "edit_title": "sort question",
+      "edit_question_text": "fill-The implementation of Java Platform",
+      "question_text": "fill-software development environment used for developing Java applications and applets is ____",
+      "question_syntax": "",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+      "answers": [
+        {
+          "answer_text": "Java development kit, jdk, java",
+          "correct": true,
+          "answer": "Java development kit",
+          "score": 10
+        }
+      ],
+      "edit_answers": [
+        {
+          "answer_text": "Java"
+        },
+        {
+          "answer_text": "development"
+        },
+        {
+          "answer_text": "kit"
+        }
+      ]
+    },
+    {
+      "item": 6,
+      "title": "entered",
+      "type": "entered_answer",
+      "question_text": "text-The one which is an implementation of Java Platform",
+      "edit_title": "classification question",
+      "edit_type": "classify",
+      "edit_question_text": "text-classify the animal",
+      "question_syntax": "",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+      "answers": "Java development kit",
+      "edit_answers": [
+        {
+          "item": 1,
+          "bucket": "Fish",
+          "syntax": "::",
+          "label": "Fish"
+        },
+        {
+          "item": 2,
+          "bucket": "Tiger",
+          "syntax": "::",
+          "label": "Tiger"
+        },
+        {
+          "item": 3,
+          "bucket": "Lion",
+          "syntax": "::",
+          "label": "Lion"
+        }
+      ]
+    },
+    {
+      "item": 7,
+      "title": "classification",
+      "type": "classify",
+      "question_text": "classif-classify the animal",
+      "edit_title": "entered question",
+      "edit_type": "entered_answer",
+      "edit_question_text": "classif-The one which is an implementation of Java Platform",
+      "question_syntax": "",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+      "answers": [
+        {
+          "item": 1,
+          "bucket": "Fish",
+          "syntax": "::",
+          "label": "Fish"
+        },
+        {
+          "item": 2,
+          "bucket": "Tiger",
+          "syntax": "::",
+          "label": "Tiger"
+        },
+        {
+          "item": 3,
+          "bucket": "Lion",
+          "syntax": "::",
+          "label": "Lion"
+        }
+      ],
+      "edit_answers": "Java development kit"
+    },
+    {
+      "item": 8,
+      "title": "Select",
+      "type": "Select",
+      "edit_title": "soft skills single question",
+      "edit_type": "softsingle",
+      "question_text": "fsel-A Cat is a ____ animal",
+      "edit_question_text": "heart-You are an astrobiologist and you are invited to a wintering in Antarctica, what is your reaction ?",
+      "question_syntax": "",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+      "answers": [
+        {
+          "syntax": ">",
+          "correct_answer": "pet",
+          "syntax_1": ">",
+          "second_option": ",wild,",
+          "third_option": "species"
+        }
+      ],
+      "edit_answers": [
+        {
+          "correct": true,
+          "answer_text": "I will ask for compensation.",
+          "tag_answer": "analysis, organization"
+        },
+        {
+          "correct": true,
+          "answer_text": "I like to work in a team.?",
+          "tag_answer":"adaptability, open, motivated"
+        },
+        {
+          "correct": true,
+          "answer_text": "I like to open my horizon.",
+          "tag_answer": "reasonable, adaptability"
+        }
+      ]
+    },
+    {
+      "item": 9,
+      "title": "soft skills single",
+      "type": "softsingle",
+      "edit_title": "Select question",
+      "edit_type": "Select",
+      "question_syntax": "",
+      "edit_question_text": "heart-A cat is _____ animal",
+      "question_text": "fsel-You are an astrobiologist and you are invited to a wintering in Antarctica, what is your reaction ?",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+      "answers": [
+        {
+          "correct": true,
+          "answer_text": "I will ask for compensation.",
+          "tag_answer": "analysis, organization"
+        },
+        {
+          "correct": true,
+          "answer_text": "I like to work in a team.?",
+          "tag_answer":"adaptability, open, motivated"
+        },
+        {
+          "correct": true,
+          "answer_text": "I like to open my horizon.",
+          "tag_answer": "reasonable, adaptability"
+        }
+      ],
+      "edit_answers": [
+        {
+          "syntax": ">",
+          "correct_answer": "pet",
+          "syntax_1": ">",
+          "second_option": ",wild,",
+          "third_option": "species"
+        }
+      ]
+    },
+    {
+      "item": 10,
+      "title": "soft skills multiple",
+      "edit_title": "soft skills single questions",
+      "type": "softmultiple",
+      "edit_type": "softsingle",
+      "question_syntax": "",
+      "question_text": "heart-You are an astrobiologist and we suggest a wintering in Antarctica, what thoughts come to your mind ?",
+      "edit_question_text": "heart_multiple-You are an astrobiologist and we suggest a wintering in Antarctica, what thoughts come to your mind ?",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+      "answers": [
+        {
+          "correct": true,
+          "answer_text": "A year with ten strangers, 3 months of darkness, -80 ° C , never !",
+          "tag_answer": "negotiator"
+        },
+        {
+          "correct": true,
+          "answer_text": "Great, an adventure that will get me out of my daily routine, when do we leave?",
+          "tag_answer":"analysis, structure"
+        },
+        {
+          "correct": true,
+          "answer_text": "Why not, learning sometimes requires certain sacrifices. I'm gonna think about it.",
+          "tag_answer": "adventurer, adaptability"
+        }
+      ],
+      "edit_answers": [
+        {
+          "correct": true,
+          "answer_text": "I will ask for compensation.",
+          "tag_answer": "analysis, organization",
+          "edit_tag_answer": "options a"
+
+        },
+        {
+          "correct": true,
+          "answer_text": "I like to work in a team.?",
+          "tag_answer": "adaptability, open, motivated",
+          "edit_tag_answer": "options b"
+
+        },
+        {
+          "correct": true,
+          "answer_text": "I like to open my horizon.",
+          "tag_answer": "reasonable, adaptability",
+          "edit_tag_answer": "options c"
+
+        }
+      ]
+    }
+   ],
+
+  "pre_answer_type": [
+    {
+      "item": 0,
+      "title": "Platform",
+      "type": "single",
+      "question_text": "mcq-The one which is an implementation of Java Platform",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+      "answers": [
+        {
+          "correct": true,
+          "answer_text": "Java development kit",
+          "score": "10"
+        },
+        {
+          "correct": false,
+          "answer_text": "Java developer kit",
+          "score": "10"
+        },
+        {
+          "correct": false,
+          "answer_text": "Java detach kit",
+          "score": "10"
+        }
+      ]
+    },    
+    {
+      "item": 1,
+      "title": "JDK",
+      "type": "multi",
+      "question_text": "mchk-What is JDK",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+      "answers": [
+        {
+          "correct": true,
+          "answer_text": "Java development kit",
+          "score": "10"
+        },
+        {
+          "correct": false,
+          "answer_text": "Java developer kit",
+          "score": "-4"
+        },
+        {
+          "correct": false,
+          "answer_text": "Java detach kit",
+          "score": "5"
+        }
+      ]
+    },
+    {
+      "item": 3,
+      "title": "environment",
+      "type": "true_or_false",
+      "question_text": "bool-software development environment used for developing Java applications and applets",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+      "answers": [
+        {
+          "correct": true,
+          "answer_text": "True",
+          "score": "10"
+        },
+        {
+          "correct": false,
+          "answer_text": "False",
+          "score": "4"
+        }
+      ]
+    }   
+  ],
+  "edit_uploaded_question": [
+    {
+      "item": 1,
+      "title": "Antarctica ice cover",
+      "type": "single",
+      "question_text": "mcq-JDK",
+      "edit_title": "What is JDK",
+      "edit_type": "multi",
+      "edit_question": "JDK means?",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+      "edit_answers": [
+        {
+          "correct": true,
+          "answer_text": "Kit of Java development"
+        },
+        {
+          "correct": false,
+          "answer_text": "Kit of Java developer"
+        },
+        {
+          "correct": false,
+          "answer_text": "Kit of Java detach"
+        }
+      ]
+    },
+    {
+      "item": 2,
+      "title": "Exploration of Antarctica",
+      "type": "multiple",
+      "question_text": "mchk-Antarctica's ice cover",
+      "edit_title": "What is JDK",
+      "edit_type": "single",
+      "edit_question": "JDK means?",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+      "edit_answers": [
+        {
+          "correct": true,
+          "answer_text": "Kit of Java development"
+        },
+        {
+          "correct": false,
+          "answer_text": "Kit of Java developer"
+        },
+        {
+          "correct": false,
+          "answer_text": "Kit of Java detach"
+        }
+      ]
+    },
+    {
+      "item": 3,
+      "title": "The Antarctic Treaty",
+      "type": "entered_type",
+      "question_text": "text-Antarctica's status is regulated by the Antarctic Treaty. What year was this treaty signed ?",
+      "edit_title": "What is JDK",
+      "edit_type": "match_items",
+      "edit_question": "JDK means?",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+      "edit_answers": [
+        {
+          "case": "JDK",
+          "match_text": "Java development kit"
+        },
+        {
+          "case": "JRE",
+          "match_text": "Java Runtime Environment"
+        }
+      ]
+    },
+    {
+      "item": 4,
+      "title": "The size of continents",
+      "type": "sort",
+      "question_text": "sort-Order the list of continents, with the largest coming first",
+      "edit_title": "What is JDK",
+      "edit_type": "true_or_false",
+      "edit_question": "JDK means?",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+      "edit_answers": [
+        {
+          "correct": true,
+          "answer_text": "True"
+        },
+        {
+          "correct": false,
+          "answer_text": "False"
+        }
+      ]
+    },
+    {
+      "item": 5,
+      "title": "Name the explorers",
+      "type": "match",
+      "question_text": "match-Match each explorer with his name",
+      "edit_title": "What is JDK",
+      "edit_type": "fill",
+      "edit_question": "JDK means?",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+      "edit_answers": [
+        {
+          "answer_text": "Java development kit"
+        }
+      ]
+    }
+  ],
+  "softskills_single": [
+    {
+      "item": 0,
+      "title": "soft skills single",
+      "type": "softsingle",
+      "question_text": "heart-You are an astrobiologist and you are invited to a wintering in Antarctica, what is your reaction ?",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+      "answers": [
+        {
+          "correct": true,
+          "answer_text": "I will ask for compensation.",
+          "tag_answer": "analysis, organization"
+        },
+        {
+          "correct": true,
+          "answer_text": "I like to work in a team.?",
+          "tag_answer": "adaptability, open, motivated"
+        },
+        {
+          "correct": true,
+          "answer_text": "I like to open my horizon.",
+          "tag_answer": "reasonable, adaptability"
+        }
+      ]
+    },
+    {
+      "item": 1,
+      "title": "Temperature and spirit",
+      "type": "softsingle",
+      "question_text": "heart-You are an astrobiologist and we suggest a wintering in Antarctica, what thoughts come to your mind ?",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+      "answers": [
+        {
+          "correct": true,
+          "answer_text": "A year with ten strangers, 3 months of darkness, -80°C , never !.",
+          "tag_answer": "analysis, organization"
+        },
+        {
+          "correct": true,
+          "answer_text": "Great, an adventure that will get me out of my daily routine, when do we leave?",
+          "tag_answer": "adaptability, open, motivated"
+        },
+        {
+          "correct": true,
+          "answer_text": "Why not, learning sometimes requires certain sacrifices. I'm gonna think about it.",
+          "tag_answer": "reasonable, adaptability"
+        }
+      ]
+    }
+  ],
+  "softskills_multiple": [
+    {
+      "item": 0,
+      "title": "soft skills multiple",
+      "type": "softmultiple",
+      "question_text": "heart_multiple-You are an astrobiologist and you are invited to a wintering in Antarctica, what is your reaction ?",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+      "answers": [
+        {
+          "correct": true,
+          "answer_text": "I will ask for compensation.",
+          "tag_answer": "negotiator"
+        },
+        {
+          "correct": true,
+          "answer_text": "I like to work in a team.?",
+          "tag_answer": "analysis, structure"
+        },
+        {
+          "correct": true,
+          "answer_text": "I like to open my horizon.",
+          "tag_answer": "adventurer, adaptability"
+        }
+      ]
+    },
+    {
+      "item": 1,
+      "title": "Temperature and spirit",
+      "type": "softmultiple",
+      "question_text": "heart_multiple-You are an astrobiologist and we suggest a wintering in Antarctica, what thoughts come to your mind ?",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+      "answers": [
+        {
+          "correct": true,
+          "answer_text": "A year with ten strangers, 3 months of darkness, -80°C , never !.",
+          "tag_answer": "analysis, organization"
+        },
+        {
+          "correct": true,
+          "answer_text": "Great, an adventure that will get me out of my daily routine, when do we leave?",
+          "tag_answer": "adaptability, open, motivated"
+        },
+        {
+          "correct": true,
+          "answer_text": "Why not, learning sometimes requires certain sacrifices. I'm gonna think about it.",
+          "tag_answer": "reasonable, adaptability"
+        }
+      ]
+    }
+  ],
+  "classifications": {
+    "questions1": [
+      {
+        "title": "animal name",
+        "type": "classify",
+        "question_text": "classif-classify the animal",
+        "rule": "Rule for the question",
+        "explanation": "Explanation for the question",
+        "answers": [
+          {
+            "item": 1,
+            "bucket": "fish",
+            "syntax": "::",
+            "label": "fish"
+          },
+          {
+            "item": 2,
+            "bucket": "tiger",
+            "syntax": "::",
+            "label": "tiger"
+          },
+          {
+            "item": 3,
+            "bucket": "lion",
+            "syntax": "::",
+            "label": "lion"
+          }
+        ]
+      }
+    ],
+    "questions2": [
+      {
+        "title": "animal name",
+        "type": "classify",
+        "question_text": "classif-match the correct one",
+        "rule": "Rule for the question",
+        "explanation": "Explanation for the question",
+        "answer": [
+          {
+            "item": 1,
+            "bucket": "1",
+            "syntax": "::",
+            "label": "1"
+          },
+          {
+            "item": 2,
+            "bucket": "2",
+            "syntax": "::",
+            "label": "2"
+          },
+          {
+            "item": 3,
+            "bucket": "3",
+            "syntax": "::",
+            "label": "3"
+          }
+        ]
+      }
+    ]
+  },
+  "Select": {
+      "title": "animal type",
+      "type": "Select",
+      "question_text": "fsel-A cat is _____ animal",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+    "answer": {
+      "syntax": ">",
+      "correct_answer": "pet",
+      "syntax_1" :",",
+      "second_option" : "wild,",
+      "third_option"  : "species"
+    }
+  },
+  "all_type2": [
+    {
+      "item": 11,
+      "title": "free with text",
+      "type": "free",
+      "question_syntax": "",
+      "question_text": "free-Debrief CPU",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+      "answers": "Central proccesing unit",
+      "score": "10",
+      "result": "Yes"
+
+    },
+    {
+      "item": 12,
+      "title": "free with record",
+      "type": "free2",
+      "question_syntax": "",
+      "question_text": "free2-Record",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+      "answers": "",
+      "score": "10",
+      "result": "Yes"
+    },
+    {
+      "item": 13,
+      "title": "free with attachment",
+      "type": "free3",
+      "question_syntax": "",
+      "question_text": "free3-attach any file",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+      "answers": "certificate.pdf",
+      "score": "10",
+      "result": "Yes"
+    }
+   ],
+  "all_type_with_correction_question": [
+    {
+      "item": 0,
+      "title": "single",
+      "type": "single",
+      "question_text": "mcq-The one which is an implementation of Java Platform",
+      "question_syntax": "",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+      "answers": [
+        {
+          "correct": true,
+          "answer_text": "Java development kit"
+        },
+        {
+          "correct": false,
+          "answer_text": "Java developer kit"
+        },
+        {
+          "correct": false,
+          "answer_text": "Java detach kit"
+        }
+      ]
+    },
+    {
+      "item": 1,
+      "title": "multiple",
+      "type": "multi",
+      "question_text": "mchk-What is JDK",
+      "question_syntax": "",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+      "answers": [
+        {
+          "correct": true,
+          "answer_text": "Java development kit"
+        },
+        {
+          "correct": true,
+          "answer_text": "Java developer kit"
+        },
+        {
+          "correct": false,
+          "answer_text": "Java detach kit"
+        }
+      ]
+    },
+    {
+      "item": 2,
+      "title": "boolean",
+      "type": "true_or_false",
+      "question_text": "bool-software development environment used for developing Java applications and applets",
+      "question_syntax": "",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+      "answers": [
+        {
+          "correct": true,
+          "answer_text": "True"
+        },
+        {
+          "correct": false,
+          "answer_text": "False"
+        }
+      ]
+    },
+    {
+      "item": 3,
+      "title": "match",
+      "type": "match_items",
+      "question_text": "match-match the following",
+      "question_syntax": "",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+      "answers": [
+        {
+          "case": "JDK",
+          "match_text": "Java development kit"
+        },
+        {
+          "case": "JRE",
+          "match_text": "Java Runtime Environment"
+        }
+      ]
+    },
+    {
+      "item": 4,
+      "title": "sort",
+      "type": "sort_list",
+      "question_text": "sort-The implementation of Java Platform",
+      "question_syntax": "",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+      "answers": [
+        {
+          "answer_text": "Java"
+        },
+        {
+          "answer_text": "development"
+        },
+        {
+          "answer_text": "kit"
+        }
+      ]
+    },
+    {
+      "item": 5,
+      "title": "fill",
+      "type": "fill",
+      "question_text": "fill-software development environment used for developing Java applications and applets is ____",
+      "question_syntax": "",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+      "answers": [
+        {
+          "answer_text": "Java development kit, jdk, java",
+          "correct": true,
+          "answer": "Java development kit",
+          "score": 10
+        }
+      ]
+    },
+    {
+      "item": 6,
+      "title": "entered",
+      "type": "entered_answer",
+      "question_text": "text-The one which is an implementation of Java Platform",
+      "question_syntax": "",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+      "answers": "Java development kit"
+    },
+    {
+      "item": 7,
+      "title": "classification",
+      "type": "classify",
+      "question_text": "classif-classify the animal",
+      "question_syntax": "",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+      "answers": [
+        {
+          "item": 1,
+          "bucket": "Fish",
+          "syntax": "::",
+          "label": "Fish"
+        },
+        {
+          "item": 2,
+          "bucket": "Tiger",
+          "syntax": "::",
+          "label": "Tiger"
+        },
+        {
+          "item": 3,
+          "bucket": "Lion",
+          "syntax": "::",
+          "label": "Lion"
+        }
+      ]
+    },
+    {
+      "item": 8,
+      "title": "Select",
+      "type": "Select",
+      "question_text": "fsel-A Cat is a",
+      "question_syntax": "_____",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+      "answers": [
+        {
+          "syntax": ">",
+          "correct_answer": "pet",
+          "syntax_1": ">",
+          "second_option": ",wild,",
+          "third_option": "species"
+        }
+      ]
+    },
+    {
+      "item": 9,
+      "title": "soft skills single",
+      "type": "softsingle",
+      "question_syntax": "",
+      "question_text": "heart-You are an astrobiologist and you are invited to a wintering in Antarctica, what is your reaction ?",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+      "answers": [
+        {
+          "correct": true,
+          "answer_text": "I will ask for compensation.",
+          "tag_answer": "analysis, organization"
+        },
+        {
+          "correct": true,
+          "answer_text": "I like to work in a team.?",
+          "tag_answer": "adaptability, open, motivated"
+        },
+        {
+          "correct": true,
+          "answer_text": "I like to open my horizon.",
+          "tag_answer": "reasonable, adaptability"
+        }
+      ]
+    },
+    {
+      "item": 10,
+      "title": "soft skills multiple",
+      "type": "softmultiple",
+      "question_syntax": "",
+      "question_text": "heart_multiple-You are an astrobiologist and we suggest a wintering in Antarctica, what thoughts come to your mind ?",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+      "answers": [
+        {
+          "correct": true,
+          "answer_text": "A year with ten strangers, 3 months of darkness, -80 ° C , never !",
+          "tag_answer": "negotiator"
+        },
+        {
+          "correct": true,
+          "answer_text": "Great, an adventure that will get me out of my daily routine, when do we leave?",
+          "tag_answer":"analysis, structure"
+        },
+        {
+          "correct": true,
+          "answer_text": "Why not, learning sometimes requires certain sacrifices. I'm gonna think about it.",
+          "tag_answer": "adventurer, adaptability"
+        }
+      ]
+    },
+    {
+      "item": 11,
+      "title": "free with text",
+      "type": "free",
+      "question_syntax": "",
+      "question_text": "free-Debrief CPU",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+      "answers": "Central proccesing unit",
+      "score": "10",
+      "result": "Yes"
+
+    },
+    {
+      "item": 12,
+      "title": "free with record",
+      "type": "free2",
+      "question_syntax": "",
+      "question_text": "free2-Record",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+      "answers": "",
+      "score": "10",
+      "result": "Yes"
+    },
+    {
+      "item": 13,
+      "title": "free with attachment",
+      "type": "free3",
+      "question_syntax": "",
+      "question_text": "free3-attach any file",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+      "answers": "certificate.pdf",
+      "score": "10",
+      "result": "Yes"
+    }
+   ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,182 @@
+{
+  "cookies": [
+    {
+      "name": "auth.strategy",
+      "value": "cookie",
+      "domain": "beta.experquiz.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "auth._token_expiration.cookie",
+      "value": "false",
+      "domain": "beta.experquiz.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "auth._token.cookie",
+      "value": "true",
+      "domain": "beta.experquiz.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "IDE",
+      "value": "AHWqTUk1y1hhgarsXvD3IKSP-7goNeOsSw3hg2haRUqFGCPMcwg4gMAj501OfgoK",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1747744886.967306,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.2.1302392332.1704782761",
+      "domain": ".experquiz.com",
+      "path": "/",
+      "expires": 1757570417.070452,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ar_debug",
+      "value": "1",
+      "domain": ".www.google-analytics.com",
+      "path": "/",
+      "expires": 1730756130.537978,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.2.1552596624.1722838828",
+      "domain": ".experquiz.com",
+      "path": "/",
+      "expires": 1723096817,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gat",
+      "value": "1",
+      "domain": ".experquiz.com",
+      "path": "/",
+      "expires": 1723010476,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_3L68ECQ0W7",
+      "value": "GS1.2.1723009739.292.1.1723010417.59.0.0",
+      "domain": ".experquiz.com",
+      "path": "/",
+      "expires": 1757570417.193795,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "i18n_redirected",
+      "value": "en",
+      "domain": "beta.experquiz.com",
+      "path": "/",
+      "expires": 1754546426,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "session",
+      "value": ".eJyNkc2OmzAURt-F9SjgH2zIpsoM0XQmCVHSGYZkg2xzDU4IpOA0IVXfva4qVZW66c76bN9z7O-7V-gehtqb2v4CD15hSm_q8ZgHEIcEpIwiQAwpSpBSIdNRyQAwIdKtFQ8wlho04xy44kC1C0uEgpCXMWOCEs1jJUFGohRRhDTigCOENaOljlkQEIYdilIGLASNRRhwQkqmPSdyhv4kWmjtH7XLAP1vP1HXnT5lZDUis8-39fIjo-o5G1WencGgg8RonF-HL49NfcvytFG1oQ1NPqOdXj9tRjPbvjbLt02YJjO6SmZjelDh6m1zSw-VQwtlzTdjx6LTRVV3g_1P4qL6h9h2C358ml2X8-q82eXpff-xfd_nafC8NHm11herdq_J4uVxfnq3aXIMVkl1XSUvOL0fb2kyx-uZE1I9CAvu4YhjEqCAYjyJSUBC7vaGXhe2O0LrLElUKgLAGQ1lqSJOEEWuE-Hq41Jy5v5bS1oiN9O0xhrRFGdhXfme_-mvrAcNfQ-9y2trz8PU9yVYMYGbK-Xrxdwnqjv50PruTiPayp1z-AfP9sKNaCv_MogKfqWiPJnW-_ETEErC4Q.ZrMNfA.Rba3RhqkEAcpGTvP2S4U9dc-l_w",
+      "domain": "beta.experquiz.com",
+      "path": "/",
+      "expires": 1723183229.683582,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.google.com",
+      "localStorage": [
+        {
+          "name": "rc::a",
+          "value": "Y2Fmc2llMTY5ajUwYg=="
+        }
+      ]
+    },
+    {
+      "origin": "https://beta.experquiz.com",
+      "localStorage": [
+        {
+          "name": "ahhofmV3My1iZXRhLWV4cGVycXVpei1jb21yKgsSBlhxVXNlchi4l4Dd2aHKCwwLEgpQYXNzZWRUZXN0GLiXgPvIjccIDKIBEmUtNTIyNDk5Mzk3MTUwNjEwNA_logQueue",
+          "value": "[{\"itemData\":{\"level\":\"error\",\"message\":\"TypeError: (0 , _0x515481[_0xe4cdfa(...)]) is not a function\",\"extra\":{\"timestamp\":1718923573.082,\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.57 Safari/537.36\",\"scope\":\"player/exception\",\"traceback\":null,\"vue_data\":{\"componentName\":\"xq-player-playing\",\"data\":{\"showValidationBtn\":true,\"showGotoScoreBtn\":true,\"showSaveAndScoreModal\":false,\"showSpinner\":true},\"enterprise_name\":\"Emin\",\"topic_id\":\"development_2-AVU12\",\"questionnaire_name\":\"\",\"user_name\":\"Beta Admin\"},\"url\":\"https://beta.experquiz.com/mcqplay/v4a/player/ahhofmV3My1iZXRhLWV4cGVycXVpei1jb21yKgsSBlhxVXNlchi4l4Dd2aHKCwwLEgpQYXNzZWRUZXN0GLiXgPvIjccIDKIBEmUtNTIyNDk5Mzk3MTUwNjEwNA\"}},\"uid\":\"1718923573.082\",\"status\":\"queued\",\"timestamp\":1718923573.082},{\"itemData\":{\"level\":\"error\",\"message\":\"TypeError: (0 , _0x515481[_0xe4cdfa(...)]) is not a function\",\"extra\":{\"timestamp\":1718923573.48,\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.57 Safari/537.36\",\"scope\":\"player/exception\",\"traceback\":null,\"vue_data\":{\"componentName\":\"xq-player-playing\",\"data\":{\"showValidationBtn\":true,\"showGotoScoreBtn\":false,\"showSaveAndScoreModal\":false,\"showSpinner\":false},\"enterprise_name\":\"Emin\",\"topic_id\":\"development_2-AVU12\",\"questionnaire_name\":\"\",\"user_name\":\"Beta Admin\"},\"url\":\"https://beta.experquiz.com/mcqplay/v4a/player/ahhofmV3My1iZXRhLWV4cGVycXVpei1jb21yKgsSBlhxVXNlchi4l4Dd2aHKCwwLEgpQYXNzZWRUZXN0GLiXgPvIjccIDKIBEmUtNTIyNDk5Mzk3MTUwNjEwNA\"}},\"uid\":\"1718923573.48\",\"status\":\"queued\",\"timestamp\":1718923573.48}]"
+        },
+        {
+          "name": "VIEW_OLD",
+          "value": "true"
+        },
+        {
+          "name": "ahhofmV3My1iZXRhLWV4cGVycXVpei1jb21yKgsSBlhxVXNlchi4l4Dd2aHKCwwLEgpQYXNzZWRUZXN0GLiXgNuW4ecJDKIBEmUtNTIyNDk5Mzk3MTUwNjEwNA_logQueue",
+          "value": "[{\"itemData\":{\"level\":\"error\",\"message\":\"TypeError: (0 , _0x515481[_0xe4cdfa(...)]) is not a function\",\"extra\":{\"timestamp\":1718923931.069,\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.57 Safari/537.36\",\"scope\":\"player/exception\",\"traceback\":null,\"vue_data\":{\"componentName\":\"xq-player-playing\",\"data\":{\"showValidationBtn\":true,\"showGotoScoreBtn\":false,\"showSaveAndScoreModal\":false,\"showSpinner\":false},\"enterprise_name\":\"Emin\",\"topic_id\":\"jaff_20240621-N5GCN\",\"questionnaire_name\":\"\",\"user_name\":\"Beta Admin\"},\"url\":\"https://beta.experquiz.com/mcqplay/v4a/player/ahhofmV3My1iZXRhLWV4cGVycXVpei1jb21yKgsSBlhxVXNlchi4l4Dd2aHKCwwLEgpQYXNzZWRUZXN0GLiXgNuW4ecJDKIBEmUtNTIyNDk5Mzk3MTUwNjEwNA\"}},\"uid\":\"1718923931.069\",\"status\":\"queued\",\"timestamp\":1718923931.07}]"
+        },
+        {
+          "name": "ahhofmV3My1iZXRhLWV4cGVycXVpei1jb21yKgsSBlhxVXNlchi4l4Dd2aHKCwwLEgpQYXNzZWRUZXN0GLiXgLujtOoIDKIBEmUtNTIyNDk5Mzk3MTUwNjEwNA_logQueue",
+          "value": "[{\"itemData\":{\"level\":\"error\",\"message\":\"TypeError: (0 , _0x515481[_0xe4cdfa(...)]) is not a function\",\"extra\":{\"timestamp\":1718924007.066,\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.57 Safari/537.36\",\"scope\":\"player/exception\",\"traceback\":null,\"vue_data\":{\"componentName\":\"xq-player-playing\",\"data\":{\"showValidationBtn\":true,\"showGotoScoreBtn\":false,\"showSaveAndScoreModal\":false,\"showSpinner\":false},\"enterprise_name\":\"Emin\",\"topic_id\":\"development_2-9W39P\",\"questionnaire_name\":\"\",\"user_name\":\"Beta Admin\"},\"url\":\"https://beta.experquiz.com/mcqplay/v4a/player/ahhofmV3My1iZXRhLWV4cGVycXVpei1jb21yKgsSBlhxVXNlchi4l4Dd2aHKCwwLEgpQYXNzZWRUZXN0GLiXgLujtOoIDKIBEmUtNTIyNDk5Mzk3MTUwNjEwNA\"}},\"uid\":\"1718924007.066\",\"status\":\"queued\",\"timestamp\":1718924007.066},{\"itemData\":{\"level\":\"error\",\"message\":\"TypeError: (0 , _0x515481[_0xe4cdfa(...)]) is not a function\",\"extra\":{\"timestamp\":1718924007.452,\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.57 Safari/537.36\",\"scope\":\"player/exception\",\"traceback\":null,\"vue_data\":{\"componentName\":\"xq-player-playing\",\"data\":{\"showValidationBtn\":true,\"showGotoScoreBtn\":false,\"showSaveAndScoreModal\":false,\"showSpinner\":false},\"enterprise_name\":\"Emin\",\"topic_id\":\"development_2-9W39P\",\"questionnaire_name\":\"\",\"user_name\":\"Beta Admin\"},\"url\":\"https://beta.experquiz.com/mcqplay/v4a/player/ahhofmV3My1iZXRhLWV4cGVycXVpei1jb21yKgsSBlhxVXNlchi4l4Dd2aHKCwwLEgpQYXNzZWRUZXN0GLiXgLujtOoIDKIBEmUtNTIyNDk5Mzk3MTUwNjEwNA\"}},\"uid\":\"1718924007.452\",\"status\":\"queued\",\"timestamp\":1718924007.452}]"
+        },
+        {
+          "name": "ahhofmV3My1iZXRhLWV4cGVycXVpei1jb21yKgsSBlhxVXNlchi4l4Dd2aHKCwwLEgpQYXNzZWRUZXN0GLiXgNuK9-YIDKIBEmUtNTIyNDk5Mzk3MTUwNjEwNA_logQueue",
+          "value": "[{\"itemData\":{\"level\":\"error\",\"message\":\"TypeError: (0 , _0x515481[_0xe4cdfa(...)]) is not a function\",\"extra\":{\"timestamp\":1717106364.661,\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.57 Safari/537.36\",\"scope\":\"player/exception\",\"traceback\":null,\"vue_data\":{\"componentName\":\"xq-player-playing\",\"data\":{\"showValidationBtn\":true,\"showGotoScoreBtn\":true,\"showSaveAndScoreModal\":false,\"showSpinner\":true},\"enterprise_name\":\"Emin\",\"topic_id\":\"jaff_20240531-ZS3E7\",\"questionnaire_name\":\"\",\"user_name\":\"Beta Admin\"},\"url\":\"https://beta.experquiz.com/mcqplay/v4a/player/ahhofmV3My1iZXRhLWV4cGVycXVpei1jb21yKgsSBlhxVXNlchi4l4Dd2aHKCwwLEgpQYXNzZWRUZXN0GLiXgNuK9-YIDKIBEmUtNTIyNDk5Mzk3MTUwNjEwNA\"}},\"uid\":\"1717106364.661\",\"status\":\"queued\",\"timestamp\":1717106364.661},{\"itemData\":{\"level\":\"error\",\"message\":\"TypeError: (0 , _0x515481[_0xe4cdfa(...)]) is not a function\",\"extra\":{\"timestamp\":1717106365.079,\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.57 Safari/537.36\",\"scope\":\"player/exception\",\"traceback\":null,\"vue_data\":{\"componentName\":\"xq-player-playing\",\"data\":{\"showValidationBtn\":true,\"showGotoScoreBtn\":false,\"showSaveAndScoreModal\":false,\"showSpinner\":false},\"enterprise_name\":\"Emin\",\"topic_id\":\"jaff_20240531-ZS3E7\",\"questionnaire_name\":\"\",\"user_name\":\"Beta Admin\"},\"url\":\"https://beta.experquiz.com/mcqplay/v4a/player/ahhofmV3My1iZXRhLWV4cGVycXVpei1jb21yKgsSBlhxVXNlchi4l4Dd2aHKCwwLEgpQYXNzZWRUZXN0GLiXgNuK9-YIDKIBEmUtNTIyNDk5Mzk3MTUwNjEwNA\"}},\"uid\":\"1717106365.079\",\"status\":\"queued\",\"timestamp\":1717106365.079}]"
+        },
+        {
+          "name": "ahhofmV3My1iZXRhLWV4cGVycXVpei1jb21yKgsSBlhxVXNlchi4l4Dd2aHKCwwLEgpQYXNzZWRUZXN0GLiXgJu3tokIDKIBEmUtNTIyNDk5Mzk3MTUwNjEwNA_logQueue",
+          "value": "[{\"itemData\":{\"level\":\"error\",\"message\":\"TypeError: (0 , _0x515481[_0xe4cdfa(...)]) is not a function\",\"extra\":{\"timestamp\":1717106433.624,\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.57 Safari/537.36\",\"scope\":\"player/exception\",\"traceback\":null,\"vue_data\":{\"componentName\":\"xq-player-playing\",\"data\":{\"showValidationBtn\":true,\"showGotoScoreBtn\":false,\"showSaveAndScoreModal\":false,\"showSpinner\":false},\"enterprise_name\":\"Emin\",\"topic_id\":\"development_2-G1RAB\",\"questionnaire_name\":\"\",\"user_name\":\"Beta Admin\"},\"url\":\"https://beta.experquiz.com/mcqplay/v4a/player/ahhofmV3My1iZXRhLWV4cGVycXVpei1jb21yKgsSBlhxVXNlchi4l4Dd2aHKCwwLEgpQYXNzZWRUZXN0GLiXgJu3tokIDKIBEmUtNTIyNDk5Mzk3MTUwNjEwNA\"}},\"uid\":\"1717106433.625\",\"status\":\"queued\",\"timestamp\":1717106433.625},{\"itemData\":{\"level\":\"error\",\"message\":\"TypeError: (0 , _0x515481[_0xe4cdfa(...)]) is not a function\",\"extra\":{\"timestamp\":1717106434.035,\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.57 Safari/537.36\",\"scope\":\"player/exception\",\"traceback\":null,\"vue_data\":{\"componentName\":\"xq-player-playing\",\"data\":{\"showValidationBtn\":true,\"showGotoScoreBtn\":false,\"showSaveAndScoreModal\":false,\"showSpinner\":false},\"enterprise_name\":\"Emin\",\"topic_id\":\"development_2-G1RAB\",\"questionnaire_name\":\"\",\"user_name\":\"Beta Admin\"},\"url\":\"https://beta.experquiz.com/mcqplay/v4a/player/ahhofmV3My1iZXRhLWV4cGVycXVpei1jb21yKgsSBlhxVXNlchi4l4Dd2aHKCwwLEgpQYXNzZWRUZXN0GLiXgJu3tokIDKIBEmUtNTIyNDk5Mzk3MTUwNjEwNA\"}},\"uid\":\"1717106434.036\",\"status\":\"queued\",\"timestamp\":1717106434.036}]"
+        },
+        {
+          "name": "tip-notes/latest-yellow",
+          "value": "1722983138333"
+        },
+        {
+          "name": "ahhofmV3My1iZXRhLWV4cGVycXVpei1jb21yKgsSBlhxVXNlchi4l4Dd2aHKCwwLEgpQYXNzZWRUZXN0GLiXgLv1pfUJDKIBEmUtNTIyNDk5Mzk3MTUwNjEwNA_logQueue",
+          "value": "[{\"itemData\":{\"level\":\"error\",\"message\":\"TypeError: (0 , _0x515481[_0xe4cdfa(...)]) is not a function\",\"extra\":{\"timestamp\":1716934331.364,\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.57 Safari/537.36\",\"scope\":\"player/exception\",\"traceback\":null,\"vue_data\":{\"componentName\":\"xq-player-playing\",\"data\":{\"showValidationBtn\":true,\"showGotoScoreBtn\":true,\"showSaveAndScoreModal\":false,\"showSpinner\":true},\"enterprise_name\":\"Emin\",\"topic_id\":\"development_2-DZ2RW\",\"questionnaire_name\":\"\",\"user_name\":\"Beta Admin\"},\"url\":\"https://beta.experquiz.com/mcqplay/v4a/player/ahhofmV3My1iZXRhLWV4cGVycXVpei1jb21yKgsSBlhxVXNlchi4l4Dd2aHKCwwLEgpQYXNzZWRUZXN0GLiXgLv1pfUJDKIBEmUtNTIyNDk5Mzk3MTUwNjEwNA\"}},\"uid\":\"1716934331.364\",\"status\":\"queued\",\"timestamp\":1716934331.364},{\"itemData\":{\"level\":\"error\",\"message\":\"TypeError: (0 , _0x515481[_0xe4cdfa(...)]) is not a function\",\"extra\":{\"timestamp\":1716934331.774,\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.57 Safari/537.36\",\"scope\":\"player/exception\",\"traceback\":null,\"vue_data\":{\"componentName\":\"xq-player-playing\",\"data\":{\"showValidationBtn\":true,\"showGotoScoreBtn\":false,\"showSaveAndScoreModal\":false,\"showSpinner\":false},\"enterprise_name\":\"Emin\",\"topic_id\":\"development_2-DZ2RW\",\"questionnaire_name\":\"\",\"user_name\":\"Beta Admin\"},\"url\":\"https://beta.experquiz.com/mcqplay/v4a/player/ahhofmV3My1iZXRhLWV4cGVycXVpei1jb21yKgsSBlhxVXNlchi4l4Dd2aHKCwwLEgpQYXNzZWRUZXN0GLiXgLv1pfUJDKIBEmUtNTIyNDk5Mzk3MTUwNjEwNA\"}},\"uid\":\"1716934331.774\",\"status\":\"queued\",\"timestamp\":1716934331.774}]"
+        },
+        {
+          "name": "ahhofmV3My1iZXRhLWV4cGVycXVpei1jb21yKgsSBlhxVXNlchi4l4Dd2aHKCwwLEgpQYXNzZWRUZXN0GLiXgIeIz-8LDKIBEmUtNTIyNDk5Mzk3MTUwNjEwNA_logQueue",
+          "value": "[{\"itemData\":{\"level\":\"error\",\"message\":\"TypeError: (0 , _0x515481[_0xe4cdfa(...)]) is not a function\",\"extra\":{\"timestamp\":1717106291.206,\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.57 Safari/537.36\",\"scope\":\"player/exception\",\"traceback\":null,\"vue_data\":{\"componentName\":\"xq-player-playing\",\"data\":{\"showValidationBtn\":true,\"showGotoScoreBtn\":true,\"showSaveAndScoreModal\":false,\"showSpinner\":true},\"enterprise_name\":\"Emin\",\"topic_id\":\"development_2-4ZQ68\",\"questionnaire_name\":\"\",\"user_name\":\"Beta Admin\"},\"url\":\"https://beta.experquiz.com/mcqplay/v4a/player/ahhofmV3My1iZXRhLWV4cGVycXVpei1jb21yKgsSBlhxVXNlchi4l4Dd2aHKCwwLEgpQYXNzZWRUZXN0GLiXgIeIz-8LDKIBEmUtNTIyNDk5Mzk3MTUwNjEwNA\"}},\"uid\":\"1717106291.206\",\"status\":\"queued\",\"timestamp\":1717106291.206},{\"itemData\":{\"level\":\"error\",\"message\":\"TypeError: (0 , _0x515481[_0xe4cdfa(...)]) is not a function\",\"extra\":{\"timestamp\":1717106291.6,\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.57 Safari/537.36\",\"scope\":\"player/exception\",\"traceback\":null,\"vue_data\":{\"componentName\":\"xq-player-playing\",\"data\":{\"showValidationBtn\":true,\"showGotoScoreBtn\":false,\"showSaveAndScoreModal\":false,\"showSpinner\":false},\"enterprise_name\":\"Emin\",\"topic_id\":\"development_2-4ZQ68\",\"questionnaire_name\":\"\",\"user_name\":\"Beta Admin\"},\"url\":\"https://beta.experquiz.com/mcqplay/v4a/player/ahhofmV3My1iZXRhLWV4cGVycXVpei1jb21yKgsSBlhxVXNlchi4l4Dd2aHKCwwLEgpQYXNzZWRUZXN0GLiXgIeIz-8LDKIBEmUtNTIyNDk5Mzk3MTUwNjEwNA\"}},\"uid\":\"1717106291.6\",\"status\":\"queued\",\"timestamp\":1717106291.6}]"
+        },
+        {
+          "name": "firebase:host:ew3-beta-experquiz-com-default-rtdb.europe-west1.firebasedatabase.app",
+          "value": "\"s-euw1b-nss-206.europe-west1.firebasedatabase.app\""
+        },
+        {
+          "name": "ahhofmV3My1iZXRhLWV4cGVycXVpei1jb21yKgsSBlhxVXNlchi4l4Dd2aHKCwwLEgpQYXNzZWRUZXN0GLiXgJutr-sKDKIBEmUtNTIyNDk5Mzk3MTUwNjEwNA_logQueue",
+          "value": "[{\"itemData\":{\"level\":\"error\",\"message\":\"TypeError: (0 , _0x515481[_0xe4cdfa(...)]) is not a function\",\"extra\":{\"timestamp\":1716934502.079,\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.57 Safari/537.36\",\"scope\":\"player/exception\",\"traceback\":null,\"vue_data\":{\"componentName\":\"xq-player-playing\",\"data\":{\"showValidationBtn\":true,\"showGotoScoreBtn\":false,\"showSaveAndScoreModal\":false,\"showSpinner\":false},\"enterprise_name\":\"Emin\",\"topic_id\":\"development_2-SZM2U\",\"questionnaire_name\":\"\",\"user_name\":\"Beta Admin\"},\"url\":\"https://beta.experquiz.com/mcqplay/v4a/player/ahhofmV3My1iZXRhLWV4cGVycXVpei1jb21yKgsSBlhxVXNlchi4l4Dd2aHKCwwLEgpQYXNzZWRUZXN0GLiXgJutr-sKDKIBEmUtNTIyNDk5Mzk3MTUwNjEwNA\"}},\"uid\":\"1716934502.079\",\"status\":\"queued\",\"timestamp\":1716934502.079},{\"itemData\":{\"level\":\"error\",\"message\":\"TypeError: (0 , _0x515481[_0xe4cdfa(...)]) is not a function\",\"extra\":{\"timestamp\":1716934502.462,\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.57 Safari/537.36\",\"scope\":\"player/exception\",\"traceback\":null,\"vue_data\":{\"componentName\":\"xq-player-playing\",\"data\":{\"showValidationBtn\":true,\"showGotoScoreBtn\":false,\"showSaveAndScoreModal\":false,\"showSpinner\":false},\"enterprise_name\":\"Emin\",\"topic_id\":\"development_2-SZM2U\",\"questionnaire_name\":\"\",\"user_name\":\"Beta Admin\"},\"url\":\"https://beta.experquiz.com/mcqplay/v4a/player/ahhofmV3My1iZXRhLWV4cGVycXVpei1jb21yKgsSBlhxVXNlchi4l4Dd2aHKCwwLEgpQYXNzZWRUZXN0GLiXgJutr-sKDKIBEmUtNTIyNDk5Mzk3MTUwNjEwNA\"}},\"uid\":\"1716934502.462\",\"status\":\"queued\",\"timestamp\":1716934502.462}]"
+        },
+        {
+          "name": "ahhofmV3My1iZXRhLWV4cGVycXVpei1jb21yKgsSBlhxVXNlchi4l4Dd2aHKCwwLEgpQYXNzZWRUZXN0GLiXgJu2kK4IDKIBEmUtNTIyNDk5Mzk3MTUwNjEwNA_logQueue",
+          "value": "[{\"itemData\":{\"level\":\"error\",\"message\":\"TypeError: (0 , _0x515481[_0xe4cdfa(...)]) is not a function\",\"extra\":{\"timestamp\":1716934437.701,\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.57 Safari/537.36\",\"scope\":\"player/exception\",\"traceback\":null,\"vue_data\":{\"componentName\":\"xq-player-playing\",\"data\":{\"showValidationBtn\":true,\"showGotoScoreBtn\":true,\"showSaveAndScoreModal\":false,\"showSpinner\":true},\"enterprise_name\":\"Emin\",\"topic_id\":\"jaff_20240529-U6H20\",\"questionnaire_name\":\"\",\"user_name\":\"Beta Admin\"},\"url\":\"https://beta.experquiz.com/mcqplay/v4a/player/ahhofmV3My1iZXRhLWV4cGVycXVpei1jb21yKgsSBlhxVXNlchi4l4Dd2aHKCwwLEgpQYXNzZWRUZXN0GLiXgJu2kK4IDKIBEmUtNTIyNDk5Mzk3MTUwNjEwNA\"}},\"uid\":\"1716934437.701\",\"status\":\"queued\",\"timestamp\":1716934437.701},{\"itemData\":{\"level\":\"error\",\"message\":\"TypeError: (0 , _0x515481[_0xe4cdfa(...)]) is not a function\",\"extra\":{\"timestamp\":1716934438.091,\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.57 Safari/537.36\",\"scope\":\"player/exception\",\"traceback\":null,\"vue_data\":{\"componentName\":\"xq-player-playing\",\"data\":{\"showValidationBtn\":true,\"showGotoScoreBtn\":false,\"showSaveAndScoreModal\":false,\"showSpinner\":false},\"enterprise_name\":\"Emin\",\"topic_id\":\"jaff_20240529-U6H20\",\"questionnaire_name\":\"\",\"user_name\":\"Beta Admin\"},\"url\":\"https://beta.experquiz.com/mcqplay/v4a/player/ahhofmV3My1iZXRhLWV4cGVycXVpei1jb21yKgsSBlhxVXNlchi4l4Dd2aHKCwwLEgpQYXNzZWRUZXN0GLiXgJu2kK4IDKIBEmUtNTIyNDk5Mzk3MTUwNjEwNA\"}},\"uid\":\"1716934438.091\",\"status\":\"queued\",\"timestamp\":1716934438.092}]"
+        },
+        {
+          "name": "tip-notes/latest-red",
+          "value": "1723010321060"
+        }
+      ]
+    }
+  ]
+}

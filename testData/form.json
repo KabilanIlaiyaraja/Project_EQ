@@ -1,0 +1,585 @@
+{
+  "forms": {
+    "form_1": {
+      "form_name": "first_form",
+      "fields": [
+        {
+          "field_type": "label", 
+          "label_name": "Welcome To the Survey Test",
+          "user_data": false,
+          "field_name": ""
+        },
+        {
+          "field_type": "text",
+          "field_name": "text_1",
+          "label_name": "text_1",
+          "input_required": true,
+          "minimum_length": "2",
+          "maximum_length": "9",
+          "user_data": true,
+          "answer_data": "Hii"
+        },
+        {
+          "field_type": "para",
+          "field_name": "para_1",
+          "label_name": "para_1",
+          "input_required": true,
+          "minimum_length": "2",
+          "maximum_length": "20",
+          "user_data": true,
+          "answer_data": "How are you?"
+        },
+        {
+          "field_type": "date",
+          "field_name": "date_1",
+          "label_name": "date_1",
+          "input_required": true,
+          "user_data": true,
+          "answer_data": "2020-11-25"
+        },
+        {
+          "field_type": "number",
+          "field_name": "number_1",
+          "label_name": "number_1",
+          "input_required": true,
+          "user_data": true,
+          "answer_data": "2233"
+        },
+        {
+          "field_type": "selector",
+          "field_name": "select_1",
+          "label_name": "select_1",
+          "input_required": false,
+          "choices": [
+            "Apple",
+            "Mango",
+            "Strawberry",
+            "Jack",
+            "Watermelon",
+            "Pinapple",
+            "Jerry",
+            "Grapse"
+          ],
+          "user_data": true,
+          "answer_data": "Strawberry"
+        },
+        {
+          "field_type": "bool",
+          "field_name": "bool_1",
+          "label_name": "bool_1",
+          "input_required": true,
+          "choices": [
+            "true",
+            "false"
+          ],
+          "user_data": true,
+          "answer_data": "false"
+        },
+        {
+          "field_type": "section_separator",
+          "field_name": "separate_1",
+          "label_name": "separate_1",
+          "user_data": false
+        },
+        {
+          "field_type": "drop_down",
+          "field_name": "drop_down_1",
+          "label_name": "drop_down_1",
+          "input_required": true,
+          "choices": [
+            "London",
+            "America",
+            "Australia",
+            "Paris",
+            "Sri Lanka",
+            "Madurai",
+            "Chennai"
+          ],
+          "user_data": true,
+          "answer_data": "London"
+        },
+        {
+          "field_type": "multiple_select",
+          "field_name": "multiselect_1",
+          "label_name": "multiselect_1",
+          "input_required": false,
+          "choices": [
+            "London",
+            "America",
+            "Australia",
+            "Paris",
+            "Sri Lanka",
+            "Madurai",
+            "Chennai"
+          ],
+          "user_data": true,
+          "answer_data_1": "Paris",
+          "answer_data_2": "America",
+          "answer_data_3": "Madurai"
+        },
+        {
+          "field_type": "media",
+          "name": "img.PNG",
+          "user_data": false,
+          "field_name": ""
+
+        }
+      ]
+    },
+    "form_2": {
+      "form_name": "second_form",
+      "fields": [
+        {
+          "field_type": "text",
+          "field_name": "sec_text_1",
+          "label_name": "sec_text_1",
+          "input_required": true,
+          "minimum_length": "2",
+          "maximum_length": "9",
+          "user_data": true,
+          "answer_data": "selenium"
+        },
+        {
+          "field_type": "para",
+          "field_name": "sec_para_1",
+          "label_name": "sec_para_1",
+          "input_required": true,
+          "minimum_length": "2",
+          "maximum_length": "20",
+          "user_data": true,
+          "answer_data": "How are you?"
+        },
+        {
+          "field_type": "date",
+          "field_name": "sec_date_1",
+          "label_name": "sec_date_1",
+          "input_required": true,
+          "user_data": true,
+          "answer_data": "2020-08-01"
+        },
+        {
+          "field_type": "number",
+          "field_name": "sec_number_1",
+          "label_name": "sec_number_1",
+          "input_required": true,
+          "user_data": true,
+          "answer_data": "2233"
+        },
+        {
+          "field_type": "selector",
+          "field_name": "sec_select_1",
+          "label_name": "sec_select_1",
+          "input_required": false,
+          "choices": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "user_data": true,
+          "answer_data": "5"
+        },
+        {
+          "field_type": "bool",
+          "field_name": "sec_bool_1",
+          "label_name": "sec_bool_1",
+          "input_required": true,
+          "choices": [
+            "true",
+            "fla"
+          ],
+          "user_data": true,
+          "answer_data": "fla"
+        }
+      ]
+    },
+    "form_with_condition": {
+      "form_name": "first_form",
+      "fields": [
+        {
+          "field_type": "label",
+          "label_name": "Welcome To the Survey Test"
+        },
+        {
+          "field_type": "text",
+          "field_name": "text_1",
+          "label_name": "text_1",
+          "input_required": true,
+          "minimum_length": "2",
+          "maximum_length": "9",
+          "user_data": true,
+          "answer_data": "Hii"
+        },
+        {
+          "field_type": "para",
+          "field_name": "para_1",
+          "label_name": "para_1",
+          "input_required": true,
+          "minimum_length": "2",
+          "maximum_length": "20",
+          "user_data": true,
+          "answer_data": "How are you?"
+        },
+        {
+          "field_type": "date",
+          "field_name": "date_1",
+          "label_name": "date_1",
+          "input_required": true,
+          "user_data": true,
+          "answer_data": "2020-11-25"
+        },
+        {
+          "field_type": "number",
+          "field_name": "number_1",
+          "label_name": "number_1",
+          "input_required": true,
+          "user_data": true,
+          "answer_data": "2233"
+        },
+        {
+          "field_type": "selector",
+          "field_name": "select_1",
+          "label_name": "select_1",
+          "input_required": false,
+          "choices": [
+            "Apple",
+            "Mango",
+            "Strawberry",
+            "Jack",
+            "Watermelon",
+            "Pinapple",
+            "Jerry",
+            "Grapse"
+          ],
+          "user_data": true,
+          "answer_data": "Strawberry"
+        },
+        {
+          "field_type": "bool",
+          "field_name": "bool_1",
+          "label_name": "bool_1",
+          "input_required": true,
+          "choices": [
+            "true",
+            "false"
+          ],
+          "user_data": true,
+          "answer_data": "false"
+        },
+        {
+          "field_type": "section_separator",
+          "field_name": "separate_1",
+          "label_name": "separate_1"
+        },
+        {
+          "field_type": "drop_down",
+          "field_name": "drop_down_1",
+          "label_name": "drop_down_1",
+          "input_required": true,
+          "choices": [
+            "London",
+            "America",
+            "Australia",
+            "Paris",
+            "Sri Lanka",
+            "Madurai",
+            "Chennai"
+          ],
+          "user_data": true,
+          "answer_data": "London"
+        },
+        {
+          "field_type": "multiple_select",
+          "field_name": "multiselect_1",
+          "label_name": "multiselect_1",
+          "input_required": false,
+          "choices": [
+            "London",
+            "America",
+            "Australia",
+            "Paris",
+            "Sri Lanka",
+            "Madurai",
+            "Chennai"
+          ],
+          "user_data": true,
+          "answer_data_1": "Paris",
+          "answer_data_2": "America",
+          "answer_data_3": "Madurai"
+        },
+        {
+          "field_type": "media",
+          "name": "img.PNG"
+        }
+      ]
+    },
+    "public_form": {
+      "form_name": "public_survey",
+      "public_text": "publicurltext",
+      "redirect_url": "https://beta.experquiz.com",
+      "public_redirect_url":"https://beta.experquiz.com",
+      "fields": [
+        {
+          "field_type": "label",
+          "label_name": "Welcome To the Survey Test"
+        },
+        {
+          "field_type": "text",
+          "field_name": "text_1",
+          "label_name": "text_1",
+          "input_required": true,
+          "minimum_length": "2",
+          "maximum_length": "9",
+          "user_data": true,
+          "answer_data": "Hii"
+        },
+        {
+          "field_type": "para",
+          "field_name": "para_1",
+          "label_name": "para_1",
+          "input_required": true,
+          "minimum_length": "2",
+          "maximum_length": "20",
+          "user_data": true,
+          "answer_data": "How are you?"
+        },
+        {
+          "field_type": "date",
+          "field_name": "date_1",
+          "label_name": "date_1",
+          "input_required": true,
+          "user_data": true,
+          "answer_data": "2020-11-25"
+        },
+        {
+          "field_type": "number",
+          "field_name": "number_1",
+          "label_name": "number_1",
+          "input_required": true,
+          "user_data": true,
+          "answer_data": "2233"
+        },
+        {
+          "field_type": "selector",
+          "field_name": "select_1",
+          "label_name": "select_1",
+          "input_required": false,
+          "choices": [
+            "Apple",
+            "Mango",
+            "Strawberry",
+            "Jack",
+            "Watermelon",
+            "Pinapple",
+            "Jerry",
+            "Grapse"
+          ],
+          "user_data": true,
+          "answer_data": "Strawberry"
+        },
+        {
+          "field_type": "bool",
+          "field_name": "bool_1",
+          "label_name": "bool_1",
+          "input_required": true,
+          "choices": [
+            "true",
+            "false"
+          ],
+          "user_data": true,
+          "answer_data": "false"
+        },
+        {
+          "field_type": "section_separator",
+          "field_name": "separate_1",
+          "label_name": "separate_1"
+        },
+        {
+          "field_type": "drop_down",
+          "field_name": "drop_down_1",
+          "label_name": "drop_down_1",
+          "input_required": true,
+          "choices": [
+            "London",
+            "America",
+            "Australia",
+            "Paris",
+            "Sri Lanka",
+            "Madurai",
+            "Chennai"
+          ],
+          "user_data": true,
+          "answer_data": "London"
+        },
+        {
+          "field_type": "multiple_select",
+          "field_name": "multiselect_1",
+          "label_name": "multiselect_1",
+          "input_required": false,
+          "choices": [
+            "London",
+            "America",
+            "Australia",
+            "Paris",
+            "Sri Lanka",
+            "Madurai",
+            "Chennai"
+          ],
+          "user_data": true,
+          "answer_data_1": "Paris",
+          "answer_data_2": "America",
+          "answer_data_3": "Madurai"
+        }
+      ]
+    },
+    "condition_form": {
+      "form_name": "form with field condition",
+      "fields": [
+        {
+          "field_type": "label",
+          "label_name": "Welcome To the Survey Test"
+        },
+        {
+          "field_type": "text",
+          "field_name": "text_1",
+          "label_name": "text_1",
+          "input_required": true,
+          "minimum_length": "2",
+          "maximum_length": "9",
+          "user_data": true,
+          "answer_data": "Hii"
+        },
+        {
+          "field_type": "para",
+          "field_name": "para_1",
+          "label_name": "para_1",
+          "input_required": true,
+          "minimum_length": "2",
+          "maximum_length": "20",
+          "user_data": true,
+          "condition_para": "text_1 == \"Hii\"",
+          "answer_data": "How are you"
+        },
+        {
+          "field_type": "date",
+          "field_name": "date_1",
+          "label_name": "date_1",
+          "input_required": true,
+          "user_data": true,
+          "condition_date": "para_1 == \"How are you\"",
+          "answer_data": "2020-11-25"
+        },
+        {
+          "field_type": "number",
+          "field_name": "number_1",
+          "label_name": "number_1",
+          "input_required": true,
+          "user_data": true,
+          "condition_number": "date_1 == \"2020-11-25\"",
+          "answer_data": "2233"
+        },
+        {
+          "field_type": "selector",
+          "field_name": "select_1",
+          "label_name": "select_1",
+          "input_required": false,
+          "choices": [
+            "Apple",
+            "Mango",
+            "Strawberry",
+            "Jack",
+            "Watermelon",
+            "Pinapple",
+            "Jerry",
+            "Grapse"
+          ],
+          "user_data": true,
+          "condition_selector": "number_1 == \"2233\"",
+          "answer_data": "Strawberry"
+        },
+        {
+          "field_type": "bool",
+          "field_name": "bool_1",
+          "label_name": "bool_1",
+          "input_required": true,
+          "choices": [
+            "true",
+            "false"
+          ],
+          "user_data": true,
+          "condition_bool": "select_1 == \"Strawberry\"",
+          "answer_data": "false"
+        },
+        {
+          "field_type": "section_separator",
+          "field_name": "separate_1",
+          "label_name": "separate_1"
+        },
+        {
+          "field_type": "drop_down",
+          "field_name": "drop_down_1",
+          "label_name": "drop_down_1",
+          "input_required": true,
+          "choices": [
+            "London",
+            "America",
+            "Australia",
+            "Paris",
+            "Sri Lanka",
+            "Madurai",
+            "Chennai"
+          ],
+          "user_data": true,
+          "condition_drop_down": "bool_1 == \"false\"",
+          "answer_data": "London"
+        },
+        {
+          "field_type": "multiple_select",
+          "field_name": "multiselect_1",
+          "label_name": "multiselect_1",
+          "input_required": false,
+          "choices": [
+            "London",
+            "America",
+            "Australia",
+            "Paris",
+            "Sri Lanka",
+            "Madurai",
+            "Chennai"
+          ],
+          "user_data": true,
+          "condition_multiple" : "drop_down_1 == \"London\"",
+          "answer_data_1": "Paris",
+          "answer_data_2": "America",
+          "answer_data_3": "Madurai"
+        }
+      ]
+    },
+    "simple_form": {
+      "form_name": "text and para",
+      "fields": [
+        {
+          "field_type": "text",
+          "field_name": "text_1",
+          "label_name": "text_1",
+          "input_required": true,
+          "minimum_length": "2",
+          "maximum_length": "9",
+          "user_data": true,
+          "answer_data": "Hii"
+        },
+        {
+          "field_type": "para",
+          "field_name": "para_1",
+          "label_name": "para_1",
+          "input_required": true,
+          "minimum_length": "2",
+          "maximum_length": "20",
+          "user_data": true,
+          "answer_data": "How are you?"
+        }
+      ]
+    }
+  }
+}

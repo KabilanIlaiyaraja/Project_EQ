@@ -1,0 +1,54 @@
+{
+  "Sample":
+  {
+    "items": [
+          {
+            "item": 1,
+          "type": "folder",
+          "name": "myfolder",
+          "edit_name": "my_edit_folder"
+        },
+        {
+          "item": 2,
+          "type": "factsheet",
+          "name": "java.factsheet",
+          "edit_name": "python.factsheet",
+          "factsheet_data": "'Java language' redirects here. For the natural language from the Indonesian island of Java, see Javanese language.This article is about a programming language. For the software package downloaded from java.com, see Java SE.Not to be confused with JavaScript.",
+          "edit_data": "Python is an interpreted high-level programming language for general-purpose programming. Created by Guido van Rossum and first released in 1991, Python has a design philosophy that emphasizes code readability, notably using significant whitespace. It provides constructs that enable clear programming on both small and large scales."
+        },
+        {
+          "item": 3,
+          "type": "embed",
+          "name": "selenium.embed",
+          "edit_name": "automation.embed",
+          "embed_code": "<iframe width='560' height='315' src='https://www.youtube.com/embed/jLOtNxQ1yrs' frameborder='0' allow='autoplay; encrypted-media' allowfullscreen></iframe>",
+          "edit_data": "<iframe width='560' height='315' src='https://www.youtube.com/embed/xb6Xj1gfljc' frameborder='0' allow='autoplay; encrypted-media' allowfullscreen></iframe>"
+        },
+        {
+          "item": 4,
+          "type": "pdf",
+          "name": "certificate.pdf"
+        },
+        {
+          "item": 5,
+          "type": "docx",
+          "name": "questions.docx"
+        },
+        {
+          "item": 6,
+          "type": "PNG",
+          "name": "img.PNG"
+
+          }
+      ]
+
+  },
+  "Tag":
+  {
+    "define_tag": "happy",
+    "define_tag 1": "be happy",
+    "add_tag": "poor",
+    "add_tag 1": "bad",
+    "remove_tag": "bad"
+  }
+}

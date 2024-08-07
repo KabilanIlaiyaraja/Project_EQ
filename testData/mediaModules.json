@@ -1,0 +1,554 @@
+{
+  "medias": {
+    "training_media1": {
+      "items": [
+        {
+          "item": 1,
+          "type": "PNG",
+          "name": "img",
+          "usage": "available",
+          "tag": "happy"
+        },
+        {
+          "item": 2,
+          "type": "docx",
+          "name": "questions",
+          "usage": "available",
+          "tag": "tagdocx"
+        },
+        {
+          "item": 3,
+          "type": "pdf",
+          "name": "certificate",
+          "usage": "available",
+          "tag": "tagdocument"
+        },
+        {
+          "item": 4,
+          "type": "embed",
+          "name": "selenium",
+          "embed_code": "<iframe width='560' height='315' src='https://www.youtube.com/embed/jLOtNxQ1yrs' frameborder='0' allow='autoplay; encrypted-media' allowfullscreen></iframe>",
+          "usage": "selected",
+          "tag": "tagembedd"
+        },
+        {
+          "item": 5,
+          "type": "factsheet",
+          "name": "java",
+          "factsheet_data": "'Java language' redirects here",
+          "usage": "selected",
+          "tag": "smile"
+        }
+      ]
+    },
+    "media1": {
+      "base_name": "",
+      "items": [
+        {
+          "item": 1,
+          "type": "zip",
+          "name": "Drop_down1"
+        },
+        {
+          "item": 2,
+          "type": "docx",
+          "name": "questions"
+        },
+        {
+          "item": 3,
+          "type": "PNG",
+          "name": "img"
+        },
+        {
+          "item": 4,
+          "type": "xlsx",
+          "name": "users_to_upload"
+        },
+        {
+          "item": 5,
+          "type": "pdf",
+          "name": "certificate"
+        },
+        {
+          "item": 6,
+          "type": "embed",
+          "name": "selenium",
+          "edit_name": "playwright",
+          "embed_code": "<iframe width='560' height='315' src='https://www.youtube.com/embed/jLOtNxQ1yrs' frameborder='0' allow='autoplay; encrypted-media' allowfullscreen></iframe>",
+          "edit_data": "<iframe width='560' height='315' src='https://www.youtube.com/embed/xb6Xj1gfljc' frameborder='0' allow='autoplay; encrypted-media' allowfullscreen></iframe>"
+        },
+        {
+        "item": 7,
+        "type": "factsheet",
+        "name": "java",
+        "edit_name": "python",
+        "factsheet_data": "'Java language' redirects here",
+        "edit_data": "Python is an interpreted high-level programming language for general-purpose programming"
+        }
+      ]
+    }
+  },
+  "path": {
+    "path1": {
+      "path_name": "first_path",
+      "edit_path_name": "edit_path"
+    }
+  },
+  "training": {
+    "training_1": [
+      {
+        "data_creation": "Pass",
+        "training_name": "first_module",
+        "base_name": "",
+        "elements": [
+          {
+            "item": 1,
+            "area": "used",
+            "type": "questionnaire",
+            "name": "task"
+          },
+          {
+            "item": 2,
+            "area": "free_to_play",
+            "type": "image",
+            "name": "img"
+          },
+          {
+            "item": 3,
+            "area": "used",
+            "type": "factsheet",
+            "name": "java"
+          }
+        ]
+      }
+    ]
+  },
+  "module": {
+    "module_list": [
+      {
+        "data_creation": "Pass",
+        "module_name": "Python",
+        "module_rank": "1",
+        "elements": [
+          {
+            "item": 1,
+            "type": "questionnaire",
+            "name": "task"
+          },
+          {
+            "item": 2,
+            "type": "image",
+            "name": "img"
+          },
+          {
+            "item": 3,
+            "type": "factsheet",
+            "name": "java"
+          }
+        ]
+      }
+      ],
+    "add_consequece_questionnaire_on_module_element": [
+      {
+        "data_creation": "Pass",
+        "module_name": "consequence_module",
+        "module_rank": "1",
+        "elements": [
+          {
+            "item": 1,
+            "type": "questionnaire",
+            "name": "first_questionnaires"
+          },
+          {
+            "item": 2,
+            "type": "image",
+            "name": "img"
+          },
+          {
+            "item": 3,
+            "type": "factsheet",
+            "name": "java"
+          }
+        ]
+      },
+      {
+        "module_name": "no_consequenece_module",
+        "module_duration": "1",
+        "duration_type": "min",
+        "module_rank": "2",
+        "elements": [
+          {
+            "item": 1,
+            "type": "questionnaire",
+            "name": "second_questionnaires"
+          },
+          {
+            "item": 2,
+            "type": "image",
+            "name": "img"
+          },
+          {
+            "item": 3,
+            "type": "factsheet",
+            "name": "java"
+          },
+          {
+            "item": 4,
+            "type": "pdf",
+            "name": "certificate"
+          }
+        ]
+      }
+    ],
+    "module_with_correction_questionnaire":[
+      {
+        "data_creation": "Pass",
+        "module_name": "module_with_correction",
+        "module_rank": "1",
+        "success_rate": "100",
+        "elements": [
+          {
+            "item": 1,
+            "type": "questionnaire",
+            "name": "Correction_questionnaire"
+          },
+          {
+            "item": 2,
+            "type": "image",
+            "name": "img"
+          },
+          {
+            "item": 3,
+            "type": "factsheet",
+            "name": "java"
+          }
+        ]
+      }
+    ],
+    "questionnaire_list": [
+      {
+        "data_creation": "Pass",
+        "module_name": "questionnaire_usage",
+        "module_rank": "1",
+        "elements": [
+          {
+            "item": 1,
+            "type": "questionnaire",
+            "name": "questionnaire01"
+          },
+          {
+            "item": 2,
+            "type": "questionnaire",
+            "name": "questionnaire02"
+          },
+          {
+            "item": 3,
+            "type": "questionnaire",
+            "name": "questionnaire03"
+          }
+        ]
+      }
+    ],
+    "module_with_success_rate": [
+      {
+        "data_creation": "Pass",
+        "module_name": "module_with_questionnaire_success_rate",
+        "module_rank": "1",
+        "success_rate": "100",
+        "elements": [
+          {
+            "item": 1,
+            "type": "questionnaire",
+            "name": "first_questionnaires"
+          },
+          {
+            "item": 2,
+            "type": "image",
+            "name": "certificate"
+          },
+          {
+            "item": 3,
+            "type": "questionnaire",
+            "name": "second_questionnaires"
+          },
+          {
+            "item": 4,
+            "type": "zip",
+            "name": "Drop_down1"
+          }
+        ]
+      }
+    ],
+    "module_list1": [
+      {
+        "data_creation": "Pass",
+        "module_name": "first_module",
+        "module_rank": "1",
+        "module_duration": "1",
+        "duration_type": "min",
+        "elements": [
+          {
+            "item": 1,
+            "type": "questionnaire",
+            "name": "task"
+          },
+          {
+            "item": 2,
+            "type": "image",
+            "name": "img"
+          },
+          {
+            "item": 3,
+            "type": "factsheet",
+            "name": "java"
+          }
+        ]
+      },
+      {
+        "module_name": "second_module",
+        "module_duration": "1",
+        "duration_type": "min",
+        "module_rank": "2",
+        "elements": [
+          {
+            "item": 1,
+            "type": "questionnaire",
+            "name": "task"
+          },
+          {
+            "item": 2,
+            "type": "image",
+            "name": "img"
+          },
+          {
+            "item": 3,
+            "type": "factsheet",
+            "name": "java"
+          },
+          {
+            "item": 4,
+            "type": "pdf",
+            "name": "certificate"
+          }
+        ]
+      }
+    ],
+    "edit_module_list1": [
+      {
+        "data_creation": "Pass",
+        "module_name": "Automation",
+        "elements": [
+          {
+            "item": 1,
+            "type": "questionnaire",
+            "name": "qst2"
+          },
+          {
+            "item": 2,
+            "type": "image",
+            "name": "img"
+          },
+          {
+            "item": 3,
+            "type": "factsheet",
+            "name": "java"
+          }
+        ]
+      },
+      {
+        "module_name": "selenium",
+        "elements": [
+          {
+            "item": 1,
+            "type": "questionnaire",
+            "name": "qst2"
+          },
+          {
+            "item": 2,
+            "type": "image",
+            "name": "img"
+          },
+          {
+            "item": 3,
+            "type": "factsheet",
+            "name": "java"
+          },
+          {
+            "item": 4,
+            "type": "pdf",
+            "name": "certificate"
+          }
+        ]
+      }
+    ],
+    "module_list2": [
+      {
+        "data_creation": "Pass",
+        "module_name": "first_module",
+        "module_rank": "1",
+        "certificate_title": "Certificate for Module Completion",
+        "certificate_text": "I, the undersigned, [Manager First name] [Manager Last name] , representing the company [Enterprise], certify that:\nMs / Mr. [Participant First name] [Participant Last name]\nfollowed the e-learning module [Module]\nfrom [Start Date] to [End Date] .\nwith a success rate of 100 %",
+        "elements": [
+          {
+            "item": 1,
+            "type": "questionnaire",
+            "name": "task"
+          },
+          {
+            "item": 2,
+            "type": "image",
+            "name": "img"
+          },
+          {
+            "item": 3,
+            "type": "factsheet",
+            "name": "java"
+          }
+        ]
+      }
+    ],
+    "module_list3": [
+      {
+        "data_creation": "Pass",
+        "module_name": "first_module",
+        "elements": [
+          {
+            "item": 1,
+            "type": "questionnaire",
+            "name": "task"
+          },
+          {
+            "item": 2,
+            "type": "image",
+            "name": "img"
+          },
+          {
+            "item": 3,
+            "type": "factsheet",
+            "name": "java"
+          }
+        ]
+      },
+      {
+        "module_name": "second_module",
+        "elements": [
+          {
+            "item": 1,
+            "type": "questionnaire",
+            "name": "task"
+          },
+          {
+            "item": 2,
+            "type": "image",
+            "name": "img"
+          },
+          {
+            "item": 3,
+            "type": "factsheet",
+            "name": "java"
+          },
+          {
+            "item": 4,
+            "type": "pdf",
+            "name": "certificate"
+          }
+        ]
+      },
+      {
+        "module_name": "third_module",
+        "elements": [
+          {
+            "item": 1,
+            "type": "questionnaire",
+            "name": "task"
+          },
+          {
+            "item": 2,
+            "type": "image",
+            "name": "img"
+          },
+          {
+            "item": 3,
+            "type": "factsheet",
+            "name": "java"
+          },
+          {
+            "item": 4,
+            "type": "image",
+            "name": "img"
+          },
+          {
+            "item": 5,
+            "type": "pdf",
+            "name": "certificate"
+          }
+        ]
+      }
+    ],
+    "module_list4": [
+      {
+        "data_creation": "Pass",
+        "module_name": "Media_first_module",
+        "module_rank": "1",
+        "elements": [
+          {
+            "item": 1,
+            "type": "image",
+            "name": "img"
+          },
+          {
+            "item": 2,
+            "type": "questionnaire",
+            "name": "task"
+          },
+          {
+            "item": 3,
+            "type": "factsheet",
+            "name": "java"
+          }
+        ]
+      },
+      {
+        "module_name": "Media_second_module",
+        "module_rank": "2",
+        "elements": [
+          {
+            "item": 1,
+            "type": "image",
+            "name": "img"
+          },
+          {
+            "item": 2,
+            "type": "questionnaire",
+            "name": "task"
+          },
+          {
+            "item": 3,
+            "type": "factsheet",
+            "name": "java"
+          },
+          {
+            "item": 4,
+            "type": "pdf",
+            "name": "certificate.pdf"
+         }
+        ]
+      }
+    ]
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

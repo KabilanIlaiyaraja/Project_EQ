@@ -1,0 +1,95 @@
+{
+  "skill": {
+    "block": {
+      "block_name": "Hello",
+      "block_abbreviation": "hhh",
+      "block_reference": "11"
+    },
+    "skills": {
+      "skill_name": "first skill",
+      "skill_abbreviation": "NGK",
+      "skill_reference": "12"
+    },
+    "manual_capacity": {
+      "type": "manual",
+      "cap_name": "man1",
+      "cap_reference": "13"
+    },
+    "auto_capacity": {
+      "type": "automatic",
+      "cap_name": "auto1",
+      "cap_reference": "14"
+    }
+  },
+  "skill_1": {
+    "block1": {
+      "block_name": "skills",
+      "block_abbreviation": "bm",
+      "block_reference": "15"
+    },
+    "skills1": {
+      "skill_name": "second skill manual",
+      "skill_abbreviation": "bsk",
+      "skill_reference": "16"
+    },
+    "manual_cap": {
+      "type": "manual",
+      "items": [
+        {
+          "item": 1,
+          "name": "manual1",
+          "reference": "17",
+          "validation_rate": "100"
+        },
+        {
+          "item": 2,
+          "name": "manual2",
+          "reference": "18",
+          "validation_rate": "100"
+        },
+        {
+          "item": 3,
+          "name": "manual3",
+          "reference": "19",
+          "validation_rate": "100"
+        }
+      ]
+    },
+    "qualification" : {
+      "family_code" : "100",
+      "family_name" : "Hunter",
+      "code"        : "HUN100",
+      "name"        : "James Hunter",
+      "description" : "qualification description"
+    },
+    "jobs" : {
+      "family_code" : "101",
+      "family_name" : "Clarke",
+      "code"        : "CLA100",
+      "name"        : "Micheal Clarke",
+      "description" : "jobs description"
+    },
+    "import_skill": {
+          "item": 1,
+          "type": "xlsx",
+          "name": "Import_skills_blocks.xlsx",
+          "usage": "available"
+        },
+    "import_qualification": {
+          "item": 2,
+          "type": "xlsx",
+          "name": "qualification_import.xlsx",
+          "usage": "available"
+        },
+    "import_jobs": {
+          "item": 3,
+          "type": "xlsx",
+          "name": "jobs_import.xlsx",
+          "usage": "available"
+        }
+  }
+}
+
+
+
+

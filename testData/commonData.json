@@ -1,0 +1,39 @@
+{
+  "expert_stage": {
+    "base_name": "first_base",
+    "questionnaire_name": "first_questionnaire--"
+  },
+
+  "enterprise_profile": {
+    "enterprise_name": "XQ_Testing",
+    "website": "https://www.experquiz.com",
+    "sector": "Services",
+    "size": "50 to 250 employees",
+    "country": "India"
+  },
+
+  "gdpr_message": "The GDPR (General Data Protection Regulation) is a European Union law that took effect on May 25, 2018. The purpose of the GDPR is to give EU citizens control over their personal data and to change the way organizations around the world handle data protection.",
+  "excel_footer": "Thanks by using Experquiz of enterprise[name] and [time]",
+
+  "mail_subjects":{
+    "mail_subject": "ExperQuiz",
+    "cycle_event_message": "Hello,You have been registered to an evaluation cycle.The current cycle step will start when you click this link.Best regards.",
+    "create_account_subject": "has created your account",
+    "invite_user_subject": "invites you to join",
+    "reset_password_subject": "reset your password on ExperQuiz",
+    "mail_message": "Click the below link",
+    "module_certificate_subject": "Module attendance certificate"
+  },
+
+  "links": {
+    "outlook_link": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1521013704&rver=6.7.6640.0&wp=MBI_SSL&wreply=https%3a%2f%2foutlook.live.com%2fowa%2f%3fnlp%3d1%26RpsCsrfState%3d8089cdf4-dedf-3840-3413-76538860a138&id=292841&CBCXT=out&lw=1&fl=dob%2cflname%2cwld&cobrandid=90015",
+    "production_url":"https://www.experquiz.com",
+    "backup_url":"https://backup.experquiz.com",
+    "v3_url":"https://beta.experquiz.com",
+    "ubind_url": "/user/settings/unbind/delete",
+    "delete_url": "/enterprise/users/delete/myself",
+    "evaluation_url": "/enterprise/evaluations/",
+    "delete_account": "/ai1fu4hori2bu8iw/enterprise/delete/all/delete",
+    "redirect_url": "https://www.google.com"
+  }
+}

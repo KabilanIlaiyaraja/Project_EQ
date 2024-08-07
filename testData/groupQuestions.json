@@ -1,0 +1,116 @@
+{
+  "single_type": [
+    {
+      "item": 1,
+      "title": "JDK",
+      "type": "single",
+      "question_syntax": "",
+      "question_text": "mcq-What is JDK",
+      "edit_title": "Java development kit",
+      "edit_type": "multi",
+      "edit_question": "JDK means?",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+      "answers": [
+        {
+          "correct": true,
+          "answer_text": "Java development kit"
+        },
+        {
+          "correct": false,
+          "answer_text": "Java developer kit"
+        },
+        {
+          "correct": false,
+          "answer_text": "Java detach kit"
+        }
+      ],
+      "edit_answers": [
+        {
+          "correct": true,
+          "answer_text": "Kit of Java development"
+        },
+        {
+          "correct": false,
+          "answer_text": "Kit of Java developer"
+        },
+        {
+          "correct": false,
+          "answer_text": "Kit of Java detach"
+        }
+      ]
+    },
+    {
+      "item": 2,
+      "title": "environment",
+      "type": "single",
+      "question_syntax": "",
+      "question_text": "mcq-software development environment used for developing Java applications and applets",
+      "edit_title": "environment",
+      "edit_type": "match_items",
+      "edit_question": "software development environment used for developing Java applications and applets",
+      "rule": "Rule rule",
+      "explanation": "Explanation ex",
+      "answers": [
+        {
+          "correct": true,
+          "answer_text": "Java development kit"
+        },
+        {
+          "correct": false,
+          "answer_text": "Java developer kit"
+        },
+        {
+          "correct": false,
+          "answer_text": "Java detach kit"
+        }
+      ],
+      "edit_answers": [
+        {
+          "case": "JDK",
+          "match_text": "Java development kit"
+        },
+        {
+          "case": "JRE",
+          "match_text": "Java Runtime Environment"
+        }
+      ]
+    },
+    {
+      "item": 3,
+      "title": "Platform",
+      "type": "single",
+      "question_syntax": "",
+      "edit_title": "Java_platform",
+      "edit_type": "true_or_false",
+      "edit_question": "mcq-The one which is an implementation of Java Platform is JDK",
+      "question_text": "The one which is an implementation of Java Platform",
+      "rule": "Rule for the question",
+      "explanation": "Explanation for the question",
+      "answers": [
+        {
+          "correct": true,
+          "answer_text": "Java development kit"
+        },
+        {
+          "correct": false,
+          "answer_text": "Java developer kit"
+        },
+        {
+          "correct": false,
+          "answer_text": "Java detach kit"
+        }
+      ],
+      "edit_answers": [
+        {
+          "correct": true,
+          "answer_text": "True"
+        },
+        {
+          "correct": false,
+          "answer_text": "False"
+        }
+      ]
+    }
+  ]
+}
